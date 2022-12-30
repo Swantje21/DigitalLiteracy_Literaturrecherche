@@ -240,4 +240,17 @@ Die Tipps und Tricks, die du eben erhalten hast, bilden das Basiswissen, das du 
 
 ## Alles verstanden? - Teste dich jetzt!
 
+<h3>Richtig oder falsch?</h3>
+
+[[_richtig_] [_falsch_]]
+[[ ] [X]] Bei einer Such nach einem Verfasser sollte unbedingt der vollständige Name eingegeben werden. Sonst kommt es zu Verwechslungen.
+[[ ] [X]] Sonderzeichen und Umlaute müssen unbedingt richtig geschrieben werden, damit auch der richtige Begriff gefunden werden kann.
+[[X] [ ]] Bei der Suche nach einem **Thema** sollte als Suchfeld entweder "Freitext", "Schlagwort" oder "Basic Index" verwendet werden
+[[X] [ ]] Wenn ich nach besonders neuen oder speziellen Themen suche, sollte ich eine Fachdatenbank verwenden.
+[[X] [ ]] Bei einer ODER-Verknüpfung wird der Suchbereich stark erweitert. Es kommt daher zu sehr vielen Treffern.
+[[X] [ ]] Wenn eine Suchmaschine die Funktion NOT nicht kennt, sucht diese nach dem deutschen Wort "Not".
+[[ ] [X]] Es ist nicht möglich gleichzeitig nach verschiedenen Schreibweisen eines Begriffs zu suchen. Sowas muss manuell und einzeln nacheinander eingegeben werden.
+[[ ] [X]] Jede Suchmaschine funktioniert gleich.
+[[ ] [X]] Der Katalog der Universität zu Kiel ist für eine umfangreiche Literaturrecherche vollkommen ausreichend.  
+[[X] [ ]] Ich kann die Anzahl der Suchergebnisse mithilfe von verschiedenen Modifikationen und Einstellmöglichkeiten variieren.
 
