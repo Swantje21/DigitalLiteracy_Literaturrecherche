@@ -27,7 +27,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 Literaturrecherche und die Arbeit mit Literatur sind feste Bestandteile des Studiums. Doch wo fängt man überhaupt an, Literatur zu suchen? Welche Datenbanken könnten dabei helfen und wie werden sie möglichst effektiv genutzt? 
 Mit den richtigen Basics ist die Literaturrecherche gar nicht so schwer!
 
->Im folgenden stellen wir euch einige nützliche Tools und Portale zum Finden und Abrufen von Literatur vor. Den Abschluss bilden einige Hinweise zur Eingrenzung von Themen.
+>Im Folgenden stellen wir euch einige nützliche Tools und Portale zum Finden und Abrufen von Literatur vor. Den Abschluss bilden einige Hinweise zur Eingrenzung von Themen.
 
 </section>
 
@@ -36,20 +36,20 @@ Mit den richtigen Basics ist die Literaturrecherche gar nicht so schwer!
 {{0-1}}
 <section>
 
-Ein erster wichtiger Punkt für eine erfolgreiche online Recherche ist die Auswahl einer geeigneten Datenbank. Im Folgenden sollst du erfahren, wie und wo du geeignete Datenbanken finden kannst. Zur besseren Übersicht haben grenzen wir hier einmal drei unterschiedliche Suchräume ab:
+Ein erster wichtiger Punkt für eine erfolgreiche online Recherche ist die Auswahl einer geeigneten Datenbank. Im Folgenden sollst du erfahren, wie und wo du geeignete Datenbanken finden kannst. Zur besseren Übersicht haben grenzen wir hier einmal drei unterschiedliche **Suchräume** ab:
 
-* Die Kataloge der Universitätsbibliothek
+* Kataloge der Universitätsbibliothek
 * Fachdatenbanken
 * Internetrecherche
 
->Wichtig ist, dass du dich nicht auf einen einzelnen Suchraum verlässt! Jeder Suchraum hat seine eigenen Vor- und Nachteile und nur durch mehrere Suchorte kannst du dein Thema gründlich bearbeiten.
+>Wichtig ist, dass du dich nicht auf einen einzelnen Suchraum verlässt! Jeder Suchraum hat seine eigenen Vor- und Nachteile und nur durch **mehrere Suchorte** kannst du dein Thema gründlich bearbeiten.
 
 </section>
 
 {{1-2}}
 <section>
 
-<h3>Die Kataloge der Universitätsbibliothek</h3>
+<h3> Kataloge der Universitätsbibliothek</h3>
 
 Die Universitätsbibliothek verfügt über zwei unterschiedliche Katalogsysteme, die beide auf den gleichen Bestand zugreifen. Sie geben Auskunft über die bibliografischen Angaben, den Standort und die Entleihbarkeiten von Literaturtiteln. Dabei durchsuchen sie den gesamten Buchbestand der Zentralbibliothek und der Fachbibliotheken.
 
@@ -59,7 +59,7 @@ Die Universitätsbibliothek verfügt über zwei unterschiedliche Katalogsysteme,
 
 Beide Kataloge bieten viele Möglichkeiten, die Suche einzuschränken und zu spezifizieren. Zusätzlich bieten sie bei elektronischen Medien einen direkten campusweiten Zugang. Dennoch gibt es einige kleine Unterschiede zwischen den beiden Katalogsystemen, sodass es sich durchaus lohnen kann, zwischen den beiden Katalogen abzuwägen bzw. beide Kataloge parallel zu verwenden. Eine kleine Übersicht über die Unterschiede bietet das kurze [Tutorial der UB Kiel](https://youtu.be/BW0DgXDKEII).
 
->Eine Literatursuche nur über den Katalog bringt schnelle Erfolge und verweist auf konkret vor Ort oder digital verfügbare Literatur. Sie begrenzt den Suchbereich jedoch nur auf den Bestand der Universitätsbibliothek und der Fachbibliotheken, nicht auf die allgemein verfügbare Literatur.
+>Eine Literatursuche über den Katalog bringt schnelle Erfolge und verweist auf konkret vor Ort oder digital verfügbare Literatur. Sie begrenzt den Suchbereich jedoch nur auf den **Bestand der Universitätsbibliothek und der Fachbibliotheken**, nicht auf die allgemein verfügbare Literatur.
 
 </section>
 
@@ -68,12 +68,12 @@ Beide Kataloge bieten viele Möglichkeiten, die Suche einzuschränken und zu spe
 
 <h3>Fachdatenbanken</h3>
 
-Fachdatenbanken listen neben Monographien und Sammelwerken hauptsächlich einzelne Artikel aus wissenschaftlichen Zeitschriften und Sammelwerken aus einem bestimmten Fachbereich auf. Diese sind häufig aktueller, da Schreib- und Publikationsprozess dieser Beiträge wesentlich kürzer dauert, als bei Büchern. Zusätzlich können sie auch sehr spezialisierte Aspekte einzelner Forschungsfelder behandeln, die für deine Arbeit möglicherweise interessant sind.
+Fachdatenbanken listen neben Monographien und Sammelwerken hauptsächlich einzelne Artikel aus wissenschaftlichen Zeitschriften und Sammelwerken aus einem bestimmten Fachbereich auf. Diese sind häufig **aktueller**, da Schreib- und Publikationsprozess dieser Beiträge wesentlich kürzer dauert, als bei Büchern. Zusätzlich können sie auch **sehr spezialisierte Aspekte** einzelner Forschungsfelder behandeln, die für deine Arbeit möglicherweise interessant sind.
 
 ![alt](Media/DBIS.PNG)
 [Link zum Datenbank-Infosystem (DBIS)](http://rzblx10.uni-regensburg.de/dbinfo/fachliste.php?bib_id=ubk&lett=l&colors=&ocolors=)
 
->Um eine passende Datenbank für dein Thema zu finden, kann dir das Datenbank-Infosystem (DBIS) der Universitätsbibliothek Kiel weiterhelfen. Dort ist eine Vielzahl verschiedener Datenbanken - nach Fachbereichen sortiert - aufgelistet. Diese sind entweder frei zugänglich oder von der Universitätsbibliothek Kiel lizensiert.
+>Eine gute **Übersicht** bietet dir das Datenbank-Infosystem (DBIS) der Universitätsbibliothek Kiel. Dort ist eine Vielzahl verschiedener Datenbanken nach Fachbereichen sortiert aufgelistet. Diese sind entweder frei zugänglich oder von der Universitätsbibliothek Kiel lizensiert.
 
 </section>
 
@@ -82,11 +82,11 @@ Fachdatenbanken listen neben Monographien und Sammelwerken hauptsächlich einzel
 
 <h3>Internetrecherche</h3>
 
-Allgemeine Suchmaschinen wie Google eignen sich häufig für einen schnellen Überblick über ein bestimmtes Thema. Für eine tiefere Recherche eignen sie sich jedoch aus einigen Gründen in der Regel nicht.
+Allgemeine Suchmaschinen wie Google eignen sich häufig für einen **schnellen Überblick** über ein bestimmtes Thema. Für eine tiefere Recherche eignen sie sich jedoch aus einigen Gründen in der Regel nicht.
 
-Dazu gehört neben den Problemen der Relevanzbewertung durch die Suchmaschine selber und das Fehlen von systematischen Qualitätskriterien auch das Problem der Zugänglichkeit: Wissenschaftliche Literatur findet sich häufig in lizensierten Datenbanken und geschlossenen Bibliothekssystemen. Diese Daten befinden sich im sogenannten "Deep Web" und sind daher für Suchmaschinen nicht zu finden.
+Dazu gehört neben den Problemen der Relevanzbewertung durch die Suchmaschine selber und das Fehlen von systematischen Qualitätskriterien auch das Problem der Zugänglichkeit: Wissenschaftliche Literatur findet sich häufig in lizensierten Datenbanken und geschlossenen Bibliothekssystemen. Diese Daten befinden sich im sogenannten **"Deep Web"** und sind daher für Suchmaschinen nicht zu finden.
 
->Allgemeine Suchmaschinen und eine breitere Internetrecherche können besonders für den Anfang auf der Suche nach einem schnellen ersten Überblick sehr hilfreich sein. Eine vertiefte Literaturrecherche ist jedoch nicht möglich.
+>Allgemeine Suchmaschinen und eine breitere Internetrecherche können besonders für den Anfang auf der Suche nach einem schnellen ersten Überblick sehr hilfreich sein. **Eine vertiefte Literaturrecherche ist jedoch nicht möglich.**
 
 </section>
 
@@ -108,7 +108,7 @@ Bei der Vielzahl an Datenbanken, die es für die verschiedenen Fachbereiche gibt
 
 Auch wenn es verlockend ist, solltest du es vermeiden nach ganzen Sätzen oder Fragestellungen zu suchen. Oftmals sind die Ergebnisse, die aus einer solchen Suche resultieren ungenau und zu umfangreich. Diese erst zu sichten und zu sortieren kostet dich viel Zeit.
 
->Versuche zu Beginn deiner Recherche dein Thema und deine Fragestellung durch zentrale Schlüsselbegriffe genauer zu definieren. Diese sind hilfreich und auch notwendig für eine gelungene Recherche in einer Online-Datenbank.
+>Versuche zu Beginn deiner Recherche dein Thema und deine Fragestellung durch **zentrale Schlüsselbegriffe** genauer zu definieren. Diese sind hilfreich und auch notwendig für eine gelungene Recherche in einer Online-Datenbank.
 
 </section>
 
@@ -148,21 +148,6 @@ Die richtige Verwendung von Suchbegriffen ist nicht immer so einfach wie bei Goo
 {{3-4}}
 <section>
 
-<h3>Die Verwendung von Platzhaltern (Trunkierung)</h3>
-
-Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gleichzeitig in verschiedenen Schreibweisen / Formen / Sprachen finden möchtest, verwendest du Platzhalter. Das Sternchen (*) ersetzt i.d.R. beliebig viele Zeichen, das Fragezeichen (?) genau ein Zeichen.
-
-* Du suchst nach: Bibliothek* ⟶ Du findest Treffer mit den Worten: Bibliothek, Bibliotheken, Bibliothekare usw.	
-* Du suchst nach: tele*on ⟶ Du findest Treffer mit den Worten: Telefon, Telephon (aber auch: Television, Telekommunikation usw.)
-* Du suchst nach: do*umentation ⟶ Du findest Treffer mit den Worten: documentation und Dokumentation
-
-<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> **Achtung**: In manchen Suchdiensten können Platzhaltern überhaupt nicht oder nur am Ende eines Wortes verwendet werden oder es kann nur das Sternchen verwendet werden und nicht das Fragezeichen. Am Anfang eines Wortes kannst du Platzhalter in aller Regel nicht verwenden.</div>
-
-</section>
-
-{{4-5}}
-<section>
-
 <h3>Die richtige Suche nach Personen, Titeln und Themen</h3>
 
 * Wenn du nach einer **Person** (z.B. dem Verfasser) suchst, beschränke dich auf den Nachnamen. Vornamen sich oft nur in abgekürzter Form aufgeführt oder nicht vorhanden.
@@ -183,6 +168,21 @@ Deine Literatursuche wirft viel zu viele oder fast gar keine Ergebnisse ab? Kein
 </section>
 
 {{1-2}}
+<section>
+
+<h3>Die Verwendung von Platzhaltern (Trunkierung)</h3>
+
+Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gleichzeitig in verschiedenen Schreibweisen / Formen / Sprachen finden möchtest, verwendest du Platzhalter. Das Sternchen (*) ersetzt i.d.R. beliebig viele Zeichen, das Fragezeichen (?) genau ein Zeichen.
+
+* Du suchst nach: Bibliothek* ⟶ Du findest Treffer mit den Worten: Bibliothek, Bibliotheken, Bibliothekare usw.	
+* Du suchst nach: tele*on ⟶ Du findest Treffer mit den Worten: Telefon, Telephon (aber auch: Television, Telekommunikation usw.)
+* Du suchst nach: do*umentation ⟶ Du findest Treffer mit den Worten: documentation und Dokumentation
+
+<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> **Achtung**: In manchen Suchdiensten können Platzhaltern überhaupt nicht oder nur am Ende eines Wortes verwendet werden oder es kann nur das Sternchen verwendet werden und nicht das Fragezeichen. Am Anfang eines Wortes kannst du Platzhalter in aller Regel nicht verwenden.</div>
+
+</section>
+
+{{2-3}}
 <section>
 
 <h3>Suchbegriffe kombinieren</h3>
@@ -210,7 +210,7 @@ Verwende das Wort OR (in Großbuchstaben) oder die Klammern ( ), um Treffer entw
 
 </section>
 
-{{2-3}}
+{{3-4}}
 <section>
 
 <h3>Begriffe aus der Suche ausschließen</h3>
@@ -224,10 +224,7 @@ Verwende das Wort NOT (in Großbuchstaben) oder das Minuszeichen, um Treffer zu 
 
 </section>
 
-{{3-4}}
-<section>
-
-<h3>Weiterführende Links</h3>
+## Weiterführende Links
 
 Die Tipps und Tricks, die du eben erhalten hast, bilden das Basiswissen, das du für eine erfolgreiche Online-Recherche benötigst. Wenn du dein Wissen in diesem Bereich weiter ausbauen möchtest, können dir diese Links helfen:
 
@@ -235,8 +232,6 @@ Die Tipps und Tricks, die du eben erhalten hast, bilden das Basiswissen, das du 
 * [Tipps für die Recherche im Internet](https://studieren.de/recherchieren-internet.0.html)
 * [Kann man das googlen? - 10 Tipps für eine gelungene Internetrecherche](https://magazin.sofatutor.com/schueler/kann-man-das-googlen-10-tipps-fuer-eine-gelungene-internetrecherche/)
 * [E-Learning-Angebote zum wissenschaftlichen Arbeiten der CAU](https://www.ub.uni-kiel.de/de/beratung-kurse/e-learning-angebote/linkliste)
-
-</section>
 
 ## Alles verstanden? - Teste dich jetzt!
 
@@ -253,4 +248,3 @@ Die Tipps und Tricks, die du eben erhalten hast, bilden das Basiswissen, das du 
 [[ ] [X]] Jede Suchmaschine funktioniert gleich.
 [[ ] [X]] Der Katalog der Universität zu Kiel ist für eine umfangreiche Literaturrecherche vollkommen ausreichend.  
 [[X] [ ]] Ich kann die Anzahl der Suchergebnisse mithilfe von verschiedenen Modifikationen und Einstellmöglichkeiten variieren.
-
