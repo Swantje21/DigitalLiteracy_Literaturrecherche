@@ -55,29 +55,65 @@ Die Universitätsbibliothek verfügt über zwei unterschiedliche Katalogsysteme,
 
 | ![Bild OPAC](/media/OPAC.png) | ![Bild Discovery](/media/Discovery.png) | 
 | ---- |:----------- |
-|[Link zum UB-Katalog](https://katalog.ub.uni-kiel.de/)  | [Link zum Discovery-Service](https://discovery.ub.uni-kiel.de)  |
+|Der "klassische" Katalog (OPAC)  |Der neuere Discovery-Service  |
 
-Beide Kataloge bieten viele Möglichkeiten, die Suche einzuschränken und zu spezifizieren. Zusätzlich bieten sie bei elektronischen Medien einen direkten campusweiten Zugang. Dennoch gibt es einige kleine Unterschiede zwischen den beiden Katalogsystemen, sodass es sich durchaus lohnen kann, zwischen den beiden Katalogen abzuwägen bzw. beide Kataloge parallel zu verwenden. Eine kleine Übersicht über die Unterschiede bietet das kurze [Tutorial der UB Kiel](https://youtu.be/BW0DgXDKEII).
+Beide Kataloge bieten viele Möglichkeiten, die Suche einzuschränken und zu spezifizieren. Zusätzlich bieten sie bei elektronischen Medien einen direkten campusweiten Zugang. Dennoch gibt es einige kleine Unterschiede zwischen den beiden Katalogsystemen, sodass es sich durchaus lohnen kann, zwischen den beiden Katalogen abzuwägen bzw. beide Kataloge parallel zu verwenden. Auf der nächsten Seite kannst du diese Unterschiede einmal erkunden.
 
->Eine Literatursuche über den Katalog bringt schnelle Erfolge und verweist auf konkret vor Ort oder digital verfügbare Literatur. Sie begrenzt den Suchbereich jedoch nur auf den **Bestand der Universitätsbibliothek und der Fachbibliotheken**, nicht auf die allgemein verfügbare Literatur.
+> Eine Literatursuche über den Katalog bringt schnelle Erfolge und verweist auf konkret vor Ort oder digital verfügbare Literatur. Sie begrenzt den Suchbereich jedoch nur auf den **Bestand der Universitätsbibliothek und der Fachbibliotheken**, nicht auf die allgemein verfügbare Literatur.
 
 </section>
 
 {{2-3}}
 <section>
 
+<h3>Was bieten die Kataloge?</h3>
+
+Beide Kataloge der Universitätsbibliothek bieten einen schnellen Überblick über die vor Ort oder digital verfügbare Literatur und deren Verfügbarkeiten. Dennoch unterschieden sie sich nicht nur optisch voneinander. 
+
+>✎ Öffne einmal beide Kataloge in deinem Browser, suche nach einem Buch von deiner Literaturliste und bearbeite nun das **Quiz** unten. Wenn dir kein Buch einfällt, dann suche doch einfach XYXY.
+
+[Link zum UB-Katalog](https://katalog.ub.uni-kiel.de/)
+
+[Link zum Discovery-Service](https://discovery.ub.uni-kiel.de)
+
+[[OPAC ] [Discovery-Service ]]
+[   [X]        [ ]          ] Allgemeine und gezielte Suchmöglichkeiten (z.B. Personen, Zeitschriftenreihen)
+[   [ ]        [X]          ] Hevorhebung des gesuchten Begriffes
+[   [X]        [ ]          ] Zeigt standardmäßig die neusten Eintragungen zuerst an
+[   [ ]        [X]          ] Zeigt standardmäßig die relevantesten Eintragungen zuerst an
+[   [X]        [X]          ] Grafische Darstellung des Medientyps und Formats
+[   [ ]        [X]          ] Einstellbare Zeitleiste 
+[   [X]        [ ]          ] Möglichkeiten zu Signatursuche
+[   [X]        [ ]          ] Funktioniert in mehreren Tabs
+[   [X]        [X]          ] Schlagworte zum gewählten Buch
+[   [X]        [ ]          ] Chronologische Suchgeschichte
+
+</section>
+
+{{3-4}}
+<section>
+
 <h3>Fachdatenbanken</h3>
 
 Fachdatenbanken listen neben Monographien und Sammelwerken hauptsächlich einzelne Artikel aus wissenschaftlichen Zeitschriften und Sammelwerken aus einem bestimmten Fachbereich auf. Diese sind häufig **aktueller**, da Schreib- und Publikationsprozess dieser Beiträge wesentlich kürzer dauert, als bei Büchern. Zusätzlich können sie auch **sehr spezialisierte Aspekte** einzelner Forschungsfelder behandeln, die für deine Arbeit möglicherweise interessant sind.
 
-![alt](Media/DBIS.PNG)
-[Link zum Datenbank-Infosystem (DBIS)](http://rzblx10.uni-regensburg.de/dbinfo/fachliste.php?bib_id=ubk&lett=l&colors=&ocolors=)
-
->Eine gute **Übersicht** bietet dir das Datenbank-Infosystem (DBIS) der Universitätsbibliothek Kiel. Dort ist eine Vielzahl verschiedener Datenbanken nach Fachbereichen sortiert aufgelistet. Diese sind entweder frei zugänglich oder von der Universitätsbibliothek Kiel lizensiert.
+>✎ Kennst du bereits Fachdatenbanken, die für deinen Fachbereich interessant sind? Kennst du allgemeine wissenschaftliche Datenbanken?
 
 </section>
 
-{{3-2}}
+{{4-5}}
+<section>
+
+Eine gute **Übersicht** bietet dir das Datenbank-Infosystem (DBIS) der Universitätsbibliothek Kiel. Dort ist eine Vielzahl verschiedener Datenbanken nach Fachbereichen sortiert aufgelistet. Diese sind entweder frei zugänglich oder von der Universitätsbibliothek Kiel lizensiert.
+
+![alt](Media/DBIS.PNG)
+[Link zum Datenbank-Infosystem (DBIS)](http://rzblx10.uni-regensburg.de/dbinfo/fachliste.php?bib_id=ubk&lett=l&colors=&ocolors=)
+
+>✎ Suche doch einmal auf der Seite des DBIS nach deinem Fachbereich und klicke auf ihn. Welche Fachdatenbanken werden dir vorgeschlagen? Was für Spezialisierungen haben sie?
+
+</section>
+
+{{5-6}}
 <section>
 
 <h3>Internetrecherche</h3>
@@ -90,7 +126,7 @@ Dazu gehört neben den Problemen der Relevanzbewertung durch die Suchmaschine se
 
 </section>
 
-{{4-3}}
+{{6-7}}
 <section>
 
 <h3>Auch mal nach Hilfe fragen</h3>
