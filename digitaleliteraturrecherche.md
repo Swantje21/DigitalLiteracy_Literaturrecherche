@@ -54,7 +54,7 @@ Ein erster wichtiger Punkt für eine erfolgreiche online Recherche ist die Auswa
 Die Universitätsbibliothek verfügt über zwei unterschiedliche Katalogsysteme, die beide auf den gleichen Bestand zugreifen. Sie geben Auskunft über die bibliografischen Angaben, den Standort und die Entleihbarkeiten von Literaturtiteln. Dabei durchsuchen sie den gesamten Buchbestand der Zentralbibliothek und der Fachbibliotheken.
 
 | ![Bild OPAC](/media/OPAC.png) | ![Bild Discovery](/media/Discovery.png) | 
-| ---- |:----------- | 
+| ---- |:----------- |
 |[Link zum UB-Katalog](https://katalog.ub.uni-kiel.de/)  | [Link zum Discovery-Service](https://discovery.ub.uni-kiel.de)  |
 
 Beide Kataloge bieten viele Möglichkeiten, die Suche einzuschränken und zu spezifizieren. Zusätzlich bieten sie bei elektronischen Medien einen direkten campusweiten Zugang. Dennoch gibt es einige kleine Unterschiede zwischen den beiden Katalogsystemen, sodass es sich durchaus lohnen kann, zwischen den beiden Katalogen abzuwägen bzw. beide Kataloge parallel zu verwenden. Eine kleine Übersicht über die Unterschiede bietet das kurze [Tutorial der UB Kiel](https://youtu.be/BW0DgXDKEII).
@@ -95,7 +95,7 @@ Dazu gehört neben den Problemen der Relevanzbewertung durch die Suchmaschine se
 
 <h3>Auch mal nach Hilfe fragen</h3>
 
-Bei der Vielzahl an Datenbanken, die es für die verschiedenen Fachbereiche gibt, ist es natürlich, dass man sich gerade am Anfang überfordert fühlt. Ihr könnt auch eure Dozenten, bei denen ihr die Hausarbeit schreibt, nach geeigneten Datenbanken für die Recherche für euer Thema fragen.
+Bei der Vielzahl an Datenbanken, die es für die verschiedenen Fachbereiche gibt, ist es natürlich, dass man sich gerade am Anfang überfordert fühlt. Ihr könnt auch eure Dozenten, bei denen ihr die Hausarbeit schreibt, nach geeigneten Datenbanken für die Recherche für euer Thema fragen. 
 
 >Auch bei der Online-Recherche gilt: es ist noch kein Meister vom Himmel gefallen. Und Datenbank ist nicht gleich Datenbank.
 
