@@ -27,7 +27,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 Literaturrecherche und die Arbeit mit Literatur sind feste Bestandteile des Studiums. Doch wo fängt man überhaupt an, Literatur zu suchen? Welche Datenbanken könnten dabei helfen und wie werden sie möglichst effektiv genutzt? 
 Mit den richtigen Basics ist die Literaturrecherche gar nicht so schwer!
 
->Im Folgenden stellen wir euch einige nützliche Tools und Portale zum Finden und Abrufen von Literatur vor. Den Abschluss bilden einige Hinweise zur Eingrenzung von Themen.
+>➪ Im Folgenden stellen wir euch einige nützliche Tools und Portale zum Finden und Abrufen von Literatur vor. Den Abschluss bilden einige Hinweise zur Eingrenzung von Themen.
 
 </section>
 
@@ -42,7 +42,7 @@ Ein erster wichtiger Punkt für eine erfolgreiche online Recherche ist die Auswa
 * Fachdatenbanken
 * Internetrecherche
 
->Wichtig ist, dass du dich nicht auf einen einzelnen Suchraum verlässt! Jeder Suchraum hat seine eigenen Vor- und Nachteile und nur durch **mehrere Suchorte** kannst du dein Thema gründlich bearbeiten.
+>➪ Wichtig ist, dass du dich nicht auf einen einzelnen Suchraum verlässt! Jeder Suchraum hat seine eigenen Vor- und Nachteile und nur durch **mehrere Suchorte** kannst du dein Thema gründlich bearbeiten.
 
 </section>
 
@@ -59,7 +59,7 @@ Die Universitätsbibliothek verfügt über zwei unterschiedliche Katalogsysteme,
 
 Beide Kataloge bieten viele Möglichkeiten, die Suche einzuschränken und zu spezifizieren. Zusätzlich bieten sie bei elektronischen Medien einen direkten campusweiten Zugang. Dennoch gibt es einige kleine Unterschiede zwischen den beiden Katalogsystemen, sodass es sich durchaus lohnen kann, zwischen den beiden Katalogen abzuwägen bzw. beide Kataloge parallel zu verwenden. Auf der nächsten Seite kannst du diese Unterschiede einmal erkunden.
 
-> Eine Literatursuche über den Katalog bringt schnelle Erfolge und verweist auf konkret vor Ort oder digital verfügbare Literatur. Sie begrenzt den Suchbereich jedoch nur auf den **Bestand der Universitätsbibliothek und der Fachbibliotheken**, nicht auf die allgemein verfügbare Literatur.
+>➪ Eine Literatursuche über den Katalog bringt schnelle Erfolge und verweist auf konkret vor Ort oder digital verfügbare Literatur. Sie begrenzt den Suchbereich jedoch nur auf den **Bestand der Universitätsbibliothek und der Fachbibliotheken**, nicht auf die allgemein verfügbare Literatur.
 
 </section>
 
@@ -70,7 +70,7 @@ Beide Kataloge bieten viele Möglichkeiten, die Suche einzuschränken und zu spe
 
 Beide Kataloge der Universitätsbibliothek bieten einen schnellen Überblick über die vor Ort oder digital verfügbare Literatur und deren Verfügbarkeiten. Dennoch unterschieden sie sich nicht nur optisch voneinander. 
 
->✎ Öffne einmal beide Kataloge in deinem Browser, suche nach einem Buch von deiner Literaturliste und bearbeite nun das **Quiz** unten. Wenn dir kein Buch einfällt, dann suche doch einfach XYXY.
+<div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Öffne einmal beide Kataloge in deinem Browser, suche nach einem Buch von deiner Literaturliste und bearbeite nun das **Quiz** unten. Wenn dir kein Buch einfällt, dann suche doch einfach XYXY. </div>
 
 [Link zum UB-Katalog](https://katalog.ub.uni-kiel.de/)
 
@@ -97,7 +97,7 @@ Beide Kataloge der Universitätsbibliothek bieten einen schnellen Überblick üb
 
 Fachdatenbanken listen neben Monographien und Sammelwerken hauptsächlich einzelne Artikel aus wissenschaftlichen Zeitschriften und Sammelwerken aus einem bestimmten Fachbereich auf. Diese sind häufig **aktueller**, da Schreib- und Publikationsprozess dieser Beiträge wesentlich kürzer dauert, als bei Büchern. Zusätzlich können sie auch **sehr spezialisierte Aspekte** einzelner Forschungsfelder behandeln, die für deine Arbeit möglicherweise interessant sind.
 
->✎ Kennst du bereits Fachdatenbanken, die für deinen Fachbereich interessant sind? Kennst du allgemeine wissenschaftliche Datenbanken?
+<div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Kennst du bereits Fachdatenbanken, die für deinen Fachbereich interessant sind? Kennst du allgemeine wissenschaftliche Datenbanken? </div>
 
 </section>
 
@@ -109,7 +109,7 @@ Eine gute **Übersicht** bietet dir das Datenbank-Infosystem (DBIS) der Universi
 ![alt](Media/DBIS.PNG)
 [Link zum Datenbank-Infosystem (DBIS)](http://rzblx10.uni-regensburg.de/dbinfo/fachliste.php?bib_id=ubk&lett=l&colors=&ocolors=)
 
->✎ Suche doch einmal auf der Seite des DBIS nach deinem Fachbereich und klicke auf ihn. Welche Fachdatenbanken werden dir vorgeschlagen? Was für Spezialisierungen haben sie?
+<div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Suche doch einmal auf der Seite des DBIS nach deinem Fachbereich und klicke auf ihn. Welche Fachdatenbanken werden dir vorgeschlagen? Was für Spezialisierungen haben sie? </div>
 
 </section>
 
@@ -144,51 +144,48 @@ Bei der Vielzahl an Datenbanken, die es für die verschiedenen Fachbereiche gibt
 
 Auch wenn es verlockend ist, solltest du es vermeiden nach ganzen Sätzen oder Fragestellungen zu suchen. Oftmals sind die Ergebnisse, die aus einer solchen Suche resultieren ungenau und zu umfangreich. Diese erst zu sichten und zu sortieren kostet dich viel Zeit.
 
->Versuche zu Beginn deiner Recherche dein Thema und deine Fragestellung durch **zentrale Schlüsselbegriffe** genauer zu definieren. Diese sind hilfreich und auch notwendig für eine gelungene Recherche in einer Online-Datenbank.
+>➪ Versuche zu Beginn deiner Recherche dein Thema und deine Fragestellung durch **zentrale Schlüsselbegriffe** genauer zu definieren. Diese sind hilfreich und auch notwendig für eine gelungene Recherche in einer Online-Datenbank.
 
 </section>
 
 {{1-2}}
 <section>
 
-<h3> Die Recherche</h3>
+<h3>Grundlegendes zur Eingabe von Suchbegriffen</h3>
 
->Wenn du deine zentralen Schlüsselbegriffe gefunden hast, ist es an der Zeit mit deiner Recherche zu beginnen. An dieser Stelle bekommst du ein paar allgemeingültige Tipps, die dir eine Online-Recherche erleichtern können. Jeder Suchdienst kann aber auch Besonderheiten aufweisen. Es ist daher wichtig, dass du im Zweifel die **Hilfsangebote der jeweiligen Datenbanken** beachtest!
-
-Im Folgenden erfährst du:
-
-- Wie du richtig nach Personen, Titeln oder Themen suchst;
-- Was es bei der Eingabe von Suchbegriffen zu beachten gibt;
-- Wie du Platzhalter richtig verwendest (Trunkierung);
-- Wie du Suchbegriffe kombinierst;
-- Wie du Begriffe aus deiner Suche ausschließen kannst.
-
-</section>
-
-{{2-3}}
-<section>
-
-<h3>Tipps zur Eingabe von Suchbegriffen</h3>
-
-Die richtige Verwendung von Suchbegriffen ist nicht immer so einfach wie bei Google, zumal die Plattformen in der Regel nicht über eine Rechtschreibkorrektur verfügen. Dennoch sind sie elementar wichtig, um deine Anfrage für die Datenbank verständlich zu machen. Mit ein wenig Übung fällt es dir aber schnell leicht! Hier ein paar Hinweise zur "richtigen" Eingabe:
+Die richtige Verwendung von Suchbegriffen ist nicht immer so einfach wie bei Google, zumal die Plattformen in der Regel nicht über eine Rechtschreibkorrektur verfügen. Dennoch sind sie elementar wichtig, um deine Anfrage für die jeweilige Datenbank verständlich zu machen. 
+Mit ein wenig Übung fällt es dir aber schnell leicht! Hier ein paar Hinweise zur "richtigen" Eingabe:
 
 * **Groß- und Kleinschreibung** muss in der Regel nicht beachtet werden.
 * Bei **Sonderzeichen**, wie beispielsweise Akzenten, kannst du die Grundform des Buchstabens verwenden (e statt é).
 * Löse **Umlaute** und das ß auf (ae statt ä, oe statt ö, ue statt ü, ss statt ß).
 * **Übersetze** Suchbegriffe, wenn du fremdsprachige Recherchetools verwendest.
 * Wörter mit **Bindestrich** können in den meisten Datenbanken als ein Wort oder als zwei Wörter interpretiert werden.
-* Durch die Verwendung von **Anführungsstrichen** kannst du Wörter als feststehender Ausdruck suchen. 
 
 </section>
 
-{{3-4}}
+{{2-3}}
 <section>
 
 <h3>Die richtige Suche nach Personen, Titeln und Themen</h3>
 
 * Wenn du nach einer **Person** (z.B. dem Verfasser) suchst, beschränke dich auf den Nachnamen. Vornamen sich oft nur in abgekürzter Form aufgeführt oder nicht vorhanden.
 * Gib bei der Suche nach einem **Titel** maximal 2-3 Stichwörter ein. Das ist ausreichend, um die Treffermenge einzugrenzen. Zudem verringerst du dadurch das Risiko den gesuchten Titel aufgrund eines Tippfehlers oder wegen einer abweichenden Schreibweise zu übersehen.
-* Bei der Suche nach einem **Thema** solltest du Suchfelder wie „Freitext“, „Schlagwort“ oder „Basic Index“ verwenden (Hierbei können die Bezeichnungen je nach Suchdienst abweichen).
+* Bei der Suche nach einem **Thema** solltest du Suchfelder wie „Freitext“, „Schlagwort“ oder „Basic Index“ verwenden. Hierbei können die Bezeichnungen je nach Suchdienst abweichen.
+
+<div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ Beantworte mithilfe des [OPAC](https://katalog.ub.uni-kiel.de/) folgende Fragen:
+
+1. Aus welchem Jahr ist der älteste Aufsatz von Albert Einstein, der im OPAC zu finden ist?
+
+    [[1905]]
+
+2. Dein Dozent empfiehlt dir für deine Hausarbeit einen bestimmten Aufsatz aus dem Buch *""Wollten Sie auch immer schon einmal pestverseuchte Kühe auf ihre Gegner werfen?": eine fachwissenschaftliche Annährung an Geschichte im Computerspiel"*. Suche das Buch mithilfe von unterschiedlichen Stichworten. Unter welcher Signatur steht das Buch in der Universitätsbibliothek?
+
+    [[Bp 2115]]
+
+3. Aufgabe
+
+</div>
 
 </section>
 
@@ -214,7 +211,13 @@ Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gl
 * Du suchst nach: tele*on ⟶ Du findest Treffer mit den Worten: Telefon, Telephon (aber auch: Television, Telekommunikation usw.)
 * Du suchst nach: do*umentation ⟶ Du findest Treffer mit den Worten: documentation und Dokumentation
 
-<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> **Achtung**: In manchen Suchdiensten können Platzhaltern überhaupt nicht oder nur am Ende eines Wortes verwendet werden oder es kann nur das Sternchen verwendet werden und nicht das Fragezeichen. Am Anfang eines Wortes kannst du Platzhalter in aller Regel nicht verwenden.</div>
+<br>
+
+<div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ Denke dir ein Stichwort aus und suche es im [OPAC](https://katalog.ub.uni-kiel.de/)! Wie verändert sich die Trefferanzahl, wenn du Bestandteile des Wortes mit * trunkierst? Wie verändert sich die Trefferanzahl, wenn du stattdessen ein ? verwendest? Welche Kombination ergab die besten Treffer für diese Suche?</div>
+
+<br>
+
+<div style="background-color:#feb7b2;padding: 25px;border: no;"> **Achtung**: In manchen Suchdiensten können Platzhaltern überhaupt nicht oder nur am Ende eines Wortes verwendet werden oder es kann nur das Sternchen verwendet werden und nicht das Fragezeichen. Am Anfang eines Wortes kannst du Platzhalter in aller Regel nicht verwenden.</div>
 
 </section>
 
@@ -223,7 +226,9 @@ Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gl
 
 <h3>Suchbegriffe kombinieren</h3>
 
->Es gibt verschiedene Möglichkeiten, um mehrere Suchbegriffe innerhalb eines Suchfelds oder Begriffe in verschiedenen Suchfeldern miteinander zu kombinieren. In vielen Datenbanken gibt es folgende Kombinationsmöglichkeiten:
+Es gibt verschiedene Möglichkeiten, um mehrere Suchbegriffe innerhalb eines Suchfelds oder Begriffe in verschiedenen Suchfeldern miteinander zu kombinieren. In vielen Datenbanken gibt es folgende Kombinationsmöglichkeiten:
+
+<br>
 
 **Alle Begriffe finden (UND)**
 
@@ -233,7 +238,7 @@ Verwende das Wort AND (in Großbuchstaben), das Pluszeichen oder einfach das Lee
 * digital +literacy
 * digital literacy
 
->Bei Verwendung des Leerzeichens werden zum Teil zuerst die Treffer angezeigt, in denen alle Suchbegriffe vorkommen und dann die, in denen nur einige oder nur einer der eingegebenen Suchbegriffe vorkommt.
+>➪ Bei Verwendung des Leerzeichens werden zum Teil zuerst die Treffer angezeigt, in denen alle Suchbegriffe vorkommen und dann die, in denen nur einige oder nur einer der eingegebenen Suchbegriffe vorkommt.
 
 **Einen oder mehrere Begriffe finden (ODER)**
 
@@ -242,7 +247,16 @@ Verwende das Wort OR (in Großbuchstaben) oder die Klammern ( ), um Treffer entw
 * star OR stern
 * (star stern)
 
->Eine ODER-Verknüpfung erweitert den Suchbereich stark. Das führt häufig zu sehr vielen Treffern.
+>➪ Eine ODER-Verknüpfung erweitert den Suchbereich stark. Das führt häufig zu sehr vielen Treffern.
+
+**Phrasen finden (" ")**
+
+Verwende Anführungsstrichen, um Wörter als zusammenhängenden Ausdruck (Phrase) zu suchen.
+
+* "Allgemeine Relativitätstheorie"
+* "Bunte Kühe am Strand"
+
+>➪ Die Phrasensuche setzt die Suchbegriffe im Unterschied zur UND-Suche auf eine bestimmte Wortreihenfolge fest.
 
 </section>
 
@@ -256,7 +270,7 @@ Verwende das Wort NOT (in Großbuchstaben) oder das Minuszeichen, um Treffer zu 
 * digital NOT literacy
 * digital -literacy
 
-<div style="background-color:#feb7b2;padding: 25px;border: solid #fc3c31;"> **Achtung**: Einige Suchmaschinen erkennen das Wort NOT nicht in seiner Funktion und suchen stattdessen nach dem deutschen Wort "Not".</div>
+<div style="background-color:#feb7b2;padding: 25px;border: no;">**Achtung**: Einige Suchmaschinen erkennen das Wort NOT nicht in seiner Funktion und suchen stattdessen nach dem deutschen Wort "Not".</div>
 
 </section>
 
@@ -274,13 +288,13 @@ Die Tipps und Tricks, die du eben erhalten hast, bilden das Basiswissen, das du 
 <h3>Richtig oder falsch?</h3>
 
 [[_richtig_] [_falsch_]]
-[[ ] [X]] Bei einer Such nach einem Verfasser sollte unbedingt der vollständige Name eingegeben werden. Sonst kommt es zu Verwechslungen.
+[[ ] [X]] Bei einer Suche nach einem Verfasser sollte unbedingt der vollständige Name eingegeben werden. Sonst kommt es zu Verwechslungen.
 [[ ] [X]] Sonderzeichen und Umlaute müssen unbedingt richtig geschrieben werden, damit auch der richtige Begriff gefunden werden kann.
-[[X] [ ]] Bei der Suche nach einem **Thema** sollte als Suchfeld entweder "Freitext", "Schlagwort" oder "Basic Index" verwendet werden
+[[X] [ ]] Bei der Suche nach einem Thema sollte als Suchfeld entweder "Freitext", "Schlagwort" oder "Basic Index" verwendet werden.
 [[X] [ ]] Wenn ich nach besonders neuen oder speziellen Themen suche, sollte ich eine Fachdatenbank verwenden.
 [[X] [ ]] Bei einer ODER-Verknüpfung wird der Suchbereich stark erweitert. Es kommt daher zu sehr vielen Treffern.
-[[X] [ ]] Wenn eine Suchmaschine die Funktion NOT nicht kennt, sucht diese nach dem deutschen Wort "Not".
 [[ ] [X]] Es ist nicht möglich gleichzeitig nach verschiedenen Schreibweisen eines Begriffs zu suchen. Sowas muss manuell und einzeln nacheinander eingegeben werden.
 [[ ] [X]] Jede Suchmaschine funktioniert gleich.
+[[X] [ ]] Ich sollte bei der Literatursuche immer ein wenig mit den Parametern und Schlagworten spielen, wenn die Schlüsselbegriffe nicht zu einem guten Ergebnis führen
 [[ ] [X]] Der Katalog der Universität zu Kiel ist für eine umfangreiche Literaturrecherche vollkommen ausreichend.  
 [[X] [ ]] Ich kann die Anzahl der Suchergebnisse mithilfe von verschiedenen Modifikationen und Einstellmöglichkeiten variieren.
