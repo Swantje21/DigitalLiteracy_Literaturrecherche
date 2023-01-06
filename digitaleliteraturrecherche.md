@@ -55,7 +55,7 @@ Die Universitätsbibliothek verfügt über zwei unterschiedliche Katalogsysteme,
 
 | ![Bild OPAC](/media/OPAC.png) | ![Bild Discovery](/media/Discovery.png) | 
 | ---- |:----------- |
-|Der "klassische" Katalog (OPAC)  |Der neuere Discovery-Service  |
+|[Der "klassische" Katalog (OPAC)](https://katalog.ub.uni-kiel.de/)  |[Der neuere Discovery-Service](https://discovery.ub.uni-kiel.de)  |
 
 Beide Kataloge bieten viele Möglichkeiten, die Suche einzuschränken und zu spezifizieren. Zusätzlich bieten sie bei elektronischen Medien einen direkten campusweiten Zugang. Dennoch gibt es einige kleine Unterschiede zwischen den beiden Katalogsystemen, sodass es sich durchaus lohnen kann, zwischen den beiden Katalogen abzuwägen bzw. beide Kataloge parallel zu verwenden. Auf der nächsten Seite kannst du diese Unterschiede einmal erkunden.
 
@@ -70,11 +70,13 @@ Beide Kataloge bieten viele Möglichkeiten, die Suche einzuschränken und zu spe
 
 Beide Kataloge der Universitätsbibliothek bieten einen schnellen Überblick über die vor Ort oder digital verfügbare Literatur und deren Verfügbarkeiten. Dennoch unterschieden sie sich nicht nur optisch voneinander. 
 
-<div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Öffne einmal beide Kataloge in deinem Browser, suche nach einem Buch von deiner Literaturliste und bearbeite nun das **Quiz** unten. Wenn dir kein Buch einfällt, dann suche doch einfach XYXY. </div>
-
 [Link zum UB-Katalog](https://katalog.ub.uni-kiel.de/)
 
 [Link zum Discovery-Service](https://discovery.ub.uni-kiel.de)
+
+<div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Öffne einmal beide Kataloge in deinem Browser, suche nach einem Buch von deiner Literaturliste und bearbeite nun das **Quiz** unten.<br>
+<br>
+Wenn dir kein Buch einfällt, dann suche doch einfach *Assmann, Aleida: Erinnerungsräume. Formen und Wandlungen des kulturellen Gedächtnisses, München 2009*. </div>
 
 [[OPAC ] [Discovery-Service ]]
 [   [X]        [ ]          ] Allgemeine und gezielte Suchmöglichkeiten (z.B. Personen, Zeitschriftenreihen)
@@ -95,7 +97,7 @@ Beide Kataloge der Universitätsbibliothek bieten einen schnellen Überblick üb
 
 <h3>Fachdatenbanken</h3>
 
-Fachdatenbanken listen neben Monographien und Sammelwerken hauptsächlich einzelne Artikel aus wissenschaftlichen Zeitschriften und Sammelwerken aus einem bestimmten Fachbereich auf. Diese sind häufig **aktueller**, da Schreib- und Publikationsprozess dieser Beiträge wesentlich kürzer dauert, als bei Büchern. Zusätzlich können sie auch **sehr spezialisierte Aspekte** einzelner Forschungsfelder behandeln, die für deine Arbeit möglicherweise interessant sind.
+Fachdatenbanken listen neben Monographien und Sammelwerken hauptsächlich **einzelne Artikel** aus wissenschaftlichen Zeitschriften und Sammelwerken aus einem bestimmten Fachbereich auf. Diese sind häufig aktueller, da Schreib- und Publikationsprozess dieser Beiträge wesentlich kürzer dauert, als bei Büchern. Zusätzlich können sie auch **sehr spezialisierte Aspekte** einzelner Forschungsfelder behandeln, die für deine Arbeit möglicherweise interessant sind.
 
 <div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Kennst du bereits Fachdatenbanken, die für deinen Fachbereich interessant sind? Kennst du allgemeine wissenschaftliche Datenbanken? </div>
 
@@ -109,7 +111,8 @@ Eine gute **Übersicht** bietet dir das Datenbank-Infosystem (DBIS) der Universi
 ![alt](Media/DBIS.PNG)
 [Link zum Datenbank-Infosystem (DBIS)](http://rzblx10.uni-regensburg.de/dbinfo/fachliste.php?bib_id=ubk&lett=l&colors=&ocolors=)
 
-<div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Suche doch einmal auf der Seite des DBIS nach deinem Fachbereich und klicke auf ihn. Welche Fachdatenbanken werden dir vorgeschlagen? Was für Spezialisierungen haben sie? </div>
+<div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Suche doch einmal auf der Seite des DBIS nach deinem Fachbereich und klicke auf ihn.<br>
+Welche Fachdatenbanken werden dir vorgeschlagen? Was für Spezialisierungen haben sie? </div>
 
 </section>
 
@@ -122,7 +125,7 @@ Allgemeine Suchmaschinen wie Google eignen sich häufig für einen **schnellen �
 
 Dazu gehört neben den Problemen der Relevanzbewertung durch die Suchmaschine selber und das Fehlen von systematischen Qualitätskriterien auch das Problem der Zugänglichkeit: Wissenschaftliche Literatur findet sich häufig in lizensierten Datenbanken und geschlossenen Bibliothekssystemen. Diese Daten befinden sich im sogenannten **"Deep Web"** und sind daher für Suchmaschinen nicht zu finden.
 
->Allgemeine Suchmaschinen und eine breitere Internetrecherche können besonders für den Anfang auf der Suche nach einem schnellen ersten Überblick sehr hilfreich sein. **Eine vertiefte Literaturrecherche ist jedoch nicht möglich.**
+>➪Allgemeine Suchmaschinen und eine breitere Internetrecherche können besonders für den Anfang auf der Suche nach einem schnellen ersten Überblick sehr hilfreich sein. **Eine vertiefte Literaturrecherche ist jedoch nicht möglich.**
 
 </section>
 
@@ -133,7 +136,7 @@ Dazu gehört neben den Problemen der Relevanzbewertung durch die Suchmaschine se
 
 Bei der Vielzahl an Datenbanken, die es für die verschiedenen Fachbereiche gibt, ist es natürlich, dass man sich gerade am Anfang überfordert fühlt. Ihr könnt auch eure Dozenten, bei denen ihr die Hausarbeit schreibt, nach geeigneten Datenbanken für die Recherche für euer Thema fragen. 
 
->Auch bei der Online-Recherche gilt: es ist noch kein Meister vom Himmel gefallen. Und Datenbank ist nicht gleich Datenbank.
+>➪Auch bei der Online-Recherche gilt: es ist noch kein Meister vom Himmel gefallen. Und Datenbank ist nicht gleich Datenbank.
 
 </section>
 
