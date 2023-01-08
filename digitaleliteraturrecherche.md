@@ -84,10 +84,10 @@ Wenn dir kein Buch einfällt, dann suche doch einfach *Assmann, Aleida: Erinneru
 [   [X]        [ ]          ] Zeigt standardmäßig die neusten Eintragungen zuerst an
 [   [ ]        [X]          ] Zeigt standardmäßig die relevantesten Eintragungen zuerst an
 [   [X]        [X]          ] Grafische Darstellung des Medientyps und Formats
-[   [ ]        [X]          ] Einstellbare Zeitleiste 
-[   [X]        [ ]          ] Möglichkeiten zu Signatursuche
+[   [ ]        [X]          ] Einstellbare Zeitleiste zur Eingrenzung der Veröffentlichungsjahre
+[   [X]        [ ]          ] Bietet Möglichkeiten zu Signatursuche
 [   [X]        [ ]          ] Funktioniert in mehreren Tabs
-[   [X]        [X]          ] Schlagworte zum gewählten Buch
+[   [X]        [X]          ] Listet passende Schlagworte zum gewählten Buch auf
 [   [X]        [ ]          ] Chronologische Suchgeschichte
 
 </section>
