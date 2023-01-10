@@ -76,7 +76,9 @@ Beide Kataloge der Universitätsbibliothek bieten einen schnellen Überblick üb
 
 <div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Öffne einmal beide Kataloge in deinem Browser, suche nach einem Buch von deiner Literaturliste und bearbeite nun das **Quiz** unten.<br>
 <br>
-Wenn dir kein Buch einfällt, dann suche doch einfach *Assmann, Aleida: Erinnerungsräume. Formen und Wandlungen des kulturellen Gedächtnisses, München 2009*. </div>
+Wenn dir kein Buch einfällt, dann such doch einfach:
+<br>
+*Assmann, Aleida: Erinnerungsräume. Formen und Wandlungen des kulturellen Gedächtnisses, München 2009*. </div>
 
 [[OPAC ] [Discovery-Service ]]
 [   [X]        [ ]          ] Allgemeine und gezielte Suchmöglichkeiten (z.B. Personen, Zeitschriftenreihen)
