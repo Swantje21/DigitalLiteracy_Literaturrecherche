@@ -31,6 +31,54 @@ Mit den richtigen Basics ist die Literaturrecherche gar nicht so schwer!
 
 </section>
 
+## Vom Thema zum Suchbegriff
+
+{{0-1}}
+<section>
+
+Eine Literaturrecherche beginnt am besten mit einem leeren Blatt Papier. Denn zuallererst musst du herausfinden, wonach du überhaupt suchen musst. Auch wenn du schon ein grobes Thema für deine Recherche hast, gilt es nun erst einmal, das Thema genauer zu beschreiben und in mögliche Teilaspekte zu teilen. Auf diese Weise erhältst du geeignete Suchbegriffe, mit denen du dich dann auf die Suche nach passender Literatur begeben kannst.
+
+>➪ Versuche zu Beginn deiner Recherche dein Thema und deine Fragestellung durch **zentrale Schlüsselbegriffe** genauer zu definieren. Diese sind hilfreich und auch notwendig für eine gelungene Recherche in einer Online-Datenbank.
+
+</section>
+
+{{1-2}}
+<section>
+
+<h3> Auf der Suche nach Kernbegriffen </h3>
+
+Eine schnelle und übersichtliche Möglichkeit, an geeignete Suchbegriffe zu kommen, ist die Verwendung von **"Wortlisten"**. Überlege dir die wichtigsten Kernbegriffe zu deinem Thema und schreibe sie in eine Tabelle. Hier kann es sich auch anbieten, im Vorfeld eine kleine Mindmap zu machen, um erst einmal wichtige Begriffe und Aspekte zu sammeln. Fülle im Anschluss die Tabelle mit weiteren Ober- und Unterbegriffen, Synonymen, Übersetzungen und verwandten Begriffen. Auf diese Weise kannst du dein Thema weiter präzisieren und die Suche optimieren.
+
+>➪ Eine gute Hilfe bei der Suche nach sinnvollen Suchbegriffen sind **Fach-Thesauri oder Wörterbücher**.
+
+<br>
+**Auf der nächsten Seite findest du eine Wortliste zum Runterladen.**
+
+</section>
+
+{{2-3}}
+<section>
+
+<h3> Die Verwendung von Wortlisten </h3>
+
+So könnte eine beispielhafte Wortliste aussehen:
+
+![Bild Wortliste](/media/leer.png)
+
+<br>
+
+**Tipps für die Wortliste**
+
+* Liste nur aussagekräftige Begriffe auf. Welche Kernbegriffe sind für dein Thema wichtig?
+* Bedenke andere bzw. frühere Schreibweisen.
+* Löse Abkürzungen auf.
+* Singular- und Pluralformen können durch Trunkierung (*) einbezogen werden.
+* Übersetze die Suchbegriffe, wenn du fremdsprachige Rechercheinstrumente verwendest.
+* Überlege, ob die Verbindung mehrerer Begriffe zu einem Kompositum oder die Zerlegung von Komposita zu mehreren Suchbegriffen sinnvoll sein kann.
+* Ergänze die Wortliste im Verlauf der Recherche.
+
+</section>
+
 ## Bibliografien und Literaturdatenbanken
 
 {{0-1}}
