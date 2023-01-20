@@ -49,10 +49,9 @@ Eine Literaturrecherche beginnt am besten mit einem leeren Blatt Papier. Denn zu
 
 Eine schnelle und übersichtliche Möglichkeit, an geeignete Suchbegriffe zu kommen, ist die Verwendung von **"Wortlisten"**. Überlege dir die wichtigsten Kernbegriffe zu deinem Thema und schreibe sie in eine Tabelle. Hier kann es sich auch anbieten, im Vorfeld eine kleine Mindmap zu machen, um erst einmal wichtige Begriffe und Aspekte zu sammeln. Fülle im Anschluss die Tabelle mit weiteren Ober- und Unterbegriffen, Synonymen, Übersetzungen und verwandten Begriffen. Auf diese Weise kannst du dein Thema weiter präzisieren und die Suche optimieren.
 
->➪ Eine gute Hilfe bei der Suche nach sinnvollen Suchbegriffen sind **Fach-Thesauri oder Wörterbücher**.
+![Bild Wortliste leer](/media/leer.png)
 
-<br>
-**Auf der nächsten Seite findest du eine Wortliste zum Runterladen.**
+>➪ **Auf der nächsten Seite findest du ein Beispiel für eine ausgefüllte Wortliste und ein leeres Dokument zum Runterladen.**
 
 </section>
 
@@ -61,9 +60,9 @@ Eine schnelle und übersichtliche Möglichkeit, an geeignete Suchbegriffe zu kom
 
 <h3> Die Verwendung von Wortlisten </h3>
 
-So könnte eine beispielhafte Wortliste aussehen:
+![Bild Wortliste](/media/Wortliste.PNG)
 
-![Bild Wortliste](/media/leer.png)
+[Hier kannst du dir eine leere Wortliste herunterladen](https:)
 
 <br>
 
@@ -77,6 +76,25 @@ So könnte eine beispielhafte Wortliste aussehen:
 * Überlege, ob die Verbindung mehrerer Begriffe zu einem Kompositum oder die Zerlegung von Komposita zu mehreren Suchbegriffen sinnvoll sein kann.
 * Ergänze die Wortliste im Verlauf der Recherche.
 
+>➪ **Wortlisten** helfen dir, die Übersicht zu behalten und deine Suche zu strukturieren, indem sie Schlüsselbegriffe festhalten. Eine gute Hilfe bei der Suche nach sinnvollen Suchbegriffen sind **Fach-Thesauri oder Wörterbücher**.
+
+</section>
+
+{{3-4}}
+<section>
+
+<h3> Probiere es einmal selbst aus! </h3>
+
+<div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Aufgabenstellung </div>
+
+<br>
+
+<iframe src="https://einstiegh5p.de/h5p/embed/37285" width="615" height="828" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Wortliste"></iframe><script src="https://einstiegh5p.de/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+wortliste-37285.h5p
+
+??[Wortliste](/media/wortliste-37285.h5p)
+
 </section>
 
 ## Bibliografien und Literaturdatenbanken
@@ -84,7 +102,9 @@ So könnte eine beispielhafte Wortliste aussehen:
 {{0-1}}
 <section>
 
-Ein erster wichtiger Punkt für eine erfolgreiche online Recherche ist die Auswahl einer geeigneten Datenbank. Im Folgenden sollst du erfahren, wie und wo du geeignete Datenbanken finden kannst. Zur besseren Übersicht haben grenzen wir hier einmal drei unterschiedliche **Suchräume** ab:
+Nachdem du dir eine Übersicht gemacht hast, WAS du suchen willst, folgt nun die Frage, WO man überhaupt sucht. Für eine erfolgreiche Onlinerecherche ist die Auswahl einer geeigneten Datenbank sehr wichtig. Im Folgenden sollst du erfahren, wie und wo du geeignete Datenbanken finden kannst. 
+
+Zur besseren Übersicht grenzen wir einmal drei unterschiedliche **Suchräume** grob ab:
 
 * Kataloge der Universitätsbibliothek
 * Fachdatenbanken
@@ -190,12 +210,13 @@ Bei der Vielzahl an Datenbanken, die es für die verschiedenen Fachbereiche gibt
 
 </section>
 
-## Schlüsselbegriffe
+## Die Verwendung von Schlüsselbegriffen
 
 {{0-1}}
 <section>
 
 Auch wenn es verlockend ist, solltest du es vermeiden nach ganzen Sätzen oder Fragestellungen zu suchen. Oftmals sind die Ergebnisse, die aus einer solchen Suche resultieren ungenau und zu umfangreich. Diese erst zu sichten und zu sortieren kostet dich viel Zeit.
+Hier kommt deine Wortliste vom ersten Kapitel wieder zum Tragen: Sie hilft dir bei der Suche nach Schlüsselbegriffen und als Orientierung im Suchprozess.
 
 >➪ Versuche zu Beginn deiner Recherche dein Thema und deine Fragestellung durch **zentrale Schlüsselbegriffe** genauer zu definieren. Diese sind hilfreich und auch notwendig für eine gelungene Recherche in einer Online-Datenbank.
 
@@ -236,8 +257,6 @@ Mit ein wenig Übung fällt es dir aber schnell leicht! Hier ein paar Hinweise z
 
     [[Bp 2115]]
 
-3. Aufgabe
-
 </div>
 
 </section>
@@ -249,7 +268,7 @@ Mit ein wenig Übung fällt es dir aber schnell leicht! Hier ein paar Hinweise z
 
 Deine Literatursuche wirft viel zu viele oder fast gar keine Ergebnisse ab? Keine Panik - in den meisten Fällen muss man einfach ein wenig Herumprobieren und mehrere Suchdurchläufe starten, um ein zufriedenstellendes Ergebnis zu bekommen. 
 
-(Bild?)
+>➪ Beobachte die **Suchergebnisse** deiner Suche und passe deine Sucheingaben entsprechend an, um noch effektiver Suchen zu können.
 
 </section>
 
@@ -266,7 +285,7 @@ Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gl
 
 <br>
 
-<div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ Denke dir ein Stichwort aus und suche es im [OPAC](https://katalog.ub.uni-kiel.de/)! Wie verändert sich die Trefferanzahl, wenn du Bestandteile des Wortes mit * trunkierst? Wie verändert sich die Trefferanzahl, wenn du stattdessen ein ? verwendest? Welche Kombination ergab die besten Treffer für diese Suche?</div>
+<div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ Suche ein Stichwort aus deiner Wortliste aus und suche es im [OPAC](https://katalog.ub.uni-kiel.de/)! Wie verändert sich die Trefferanzahl, wenn du Bestandteile des Wortes mit * trunkierst? Wie verändert sich die Trefferanzahl, wenn du stattdessen ein ? verwendest? Welche Kombination ergab die besten Treffer für diese Suche?</div>
 
 <br>
 
@@ -311,6 +330,8 @@ Verwende Anführungsstrichen, um Wörter als zusammenhängenden Ausdruck (Phrase
 
 >➪ Die Phrasensuche setzt die Suchbegriffe im Unterschied zur UND-Suche auf eine bestimmte Wortreihenfolge fest.
 
+<div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ Aufgabe: Versuche einmal, mehrere Begriffe von deiner Wortliste auf unterschiedliche Weise miteinander zu kombinieren und beobachte dabei die Ergebnisse. Was verändert sich? Welche Kombinationsmöglichkeiten machen Sinn, welche weniger?</div>
+
 </section>
 
 {{3-4}}
@@ -323,18 +344,19 @@ Verwende das Wort NOT (in Großbuchstaben) oder das Minuszeichen, um Treffer zu 
 * digital NOT literacy
 * digital -literacy
 
+<div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ An welcher Stelle könnte die Verwendung von NOT bei einer Suche hilfreich sein?
+
+- [[ ]] Wenn ich von Anfang an bestimmte Kombinationen aus meiner Suche ausschließen möchte (z.B. Eisbären NOT Zoo). 
+- [[X]] Wenn ich bestimmte Faktoren, die in meiner Suche häufig zu Fehltreffern führen, aus der Suche ausschließen möchte (z.B. Apfelkuchenrezept NOT Backpulver).
+- [[x]] Wenn ich mehrere Begriffe miteinander verbinden, aber einen bestimmten Begriff ausschließen möchte.
+
+</div>
+
+<br>
+
 <div style="background-color:#feb7b2;padding: 25px;border: no;">**Achtung**: Einige Suchmaschinen erkennen das Wort NOT nicht in seiner Funktion und suchen stattdessen nach dem deutschen Wort "Not".</div>
 
 </section>
-
-## Weiterführende Links
-
-Die Tipps und Tricks, die du eben erhalten hast, bilden das Basiswissen, das du für eine erfolgreiche Online-Recherche benötigst. Wenn du dein Wissen in diesem Bereich weiter ausbauen möchtest, können dir diese Links helfen:
-
-* [Tipps für die Recherche - Universität Bielefeld](https://www.uni-bielefeld.de/ub/search/help/)
-* [Tipps für die Recherche im Internet](https://studieren.de/recherchieren-internet.0.html)
-* [Kann man das googlen? - 10 Tipps für eine gelungene Internetrecherche](https://magazin.sofatutor.com/schueler/kann-man-das-googlen-10-tipps-fuer-eine-gelungene-internetrecherche/)
-* [E-Learning-Angebote zum wissenschaftlichen Arbeiten der CAU](https://www.ub.uni-kiel.de/de/beratung-kurse/e-learning-angebote/linkliste)
 
 ## Alles verstanden? - Teste dich jetzt!
 
@@ -351,3 +373,12 @@ Die Tipps und Tricks, die du eben erhalten hast, bilden das Basiswissen, das du 
 [[X] [ ]] Ich sollte bei der Literatursuche immer ein wenig mit den Parametern und Schlagworten spielen, wenn die Schlüsselbegriffe nicht zu einem guten Ergebnis führen
 [[ ] [X]] Der Katalog der Universität zu Kiel ist für eine umfangreiche Literaturrecherche vollkommen ausreichend.  
 [[X] [ ]] Ich kann die Anzahl der Suchergebnisse mithilfe von verschiedenen Modifikationen und Einstellmöglichkeiten variieren.
+
+## Weiterführende Links
+
+Die Tipps und Tricks, die du eben erhalten hast, bilden das Basiswissen, das du für eine erfolgreiche Online-Recherche benötigst. Wenn du dein Wissen in diesem Bereich weiter ausbauen möchtest, können dir diese Links helfen:
+
+* [Tipps für die Recherche - Universität Bielefeld](https://www.uni-bielefeld.de/ub/search/help/)
+* [Tipps für die Recherche im Internet](https://studieren.de/recherchieren-internet.0.html)
+* [Kann man das googlen? - 10 Tipps für eine gelungene Internetrecherche](https://magazin.sofatutor.com/schueler/kann-man-das-googlen-10-tipps-fuer-eine-gelungene-internetrecherche/)
+* [E-Learning-Angebote zum wissenschaftlichen Arbeiten der CAU](https://www.ub.uni-kiel.de/de/beratung-kurse/e-learning-angebote/linkliste)
