@@ -47,11 +47,19 @@ Eine Literaturrecherche beginnt am besten mit einem leeren Blatt Papier. Denn zu
 
 <h3> Auf der Suche nach Kernbegriffen </h3>
 
-Eine schnelle und übersichtliche Möglichkeit, an geeignete Suchbegriffe zu kommen, ist die Verwendung von **"Wortlisten"**. Überlege dir die wichtigsten Kernbegriffe zu deinem Thema und schreibe sie in eine Tabelle. Hier kann es sich auch anbieten, im Vorfeld eine kleine Mindmap zu machen, um erst einmal wichtige Begriffe und Aspekte zu sammeln. Fülle im Anschluss die Tabelle mit weiteren Ober- und Unterbegriffen, Synonymen, Übersetzungen und verwandten Begriffen. Auf diese Weise kannst du dein Thema weiter präzisieren und die Suche optimieren.
+Eine schnelle und übersichtliche Möglichkeit, an geeignete Suchbegriffe zu kommen, ist die Verwendung von **"Wortlisten"**. Überlege dir die wichtigsten Kernbegriffe zu deinem Thema und schreibe sie in eine Tabelle. Hier kann es sich auch anbieten, im Vorfeld eine kleine Mindmap zu machen, um erst einmal wichtige Begriffe und Aspekte zu sammeln. 
+
+Fülle im Anschluss die Tabelle mit weiteren Ober- und Unterbegriffen, Synonymen, Übersetzungen und verwandten Begriffen. Auf diese Weise kannst du dein Thema weiter präzisieren und die Suche optimieren.
 
 ![Bild Wortliste leer](/media/leer.png)
 
->➪ **Auf der nächsten Seite findest du ein Beispiel für eine ausgefüllte Wortliste und ein leeres Dokument zum Runterladen.**
+>➪ **Auf der nächsten Seite findest du ein Beispiel für eine ausgefüllte Wortliste.**
+
+**Hier kannst du dir eine leere Wortliste herunterladen:**
+
+- [als .docx-Datei](/media/Wortliste.docx)
+
+- [als .pdf-Datei](/media/Wortliste.pdf)
 
 </section>
 
@@ -60,9 +68,39 @@ Eine schnelle und übersichtliche Möglichkeit, an geeignete Suchbegriffe zu kom
 
 <h3> Die Verwendung von Wortlisten </h3>
 
-![Bild Wortliste](/media/Wortliste.PNG)
+Hier wurde vor Beginn der Recherche eine fiktive Wortliste für eine Hausarbeit geschrieben, die sich inhaltlich mit der Bedeutung von Zeitzeugen in Gedenkstätten zur NS-Geschichte auseinander setzen soll. 
 
-[Hier kannst du dir eine leere Wortliste herunterladen](https:)
+![Bild Wortliste](/media/Wortliste1.png)
+
+>➪ Zu Beginn kannst du vielleicht nicht jede Zeile der Tabelle ausfüllen. Das ist überhaupt nicht schlimm, sondern ein guter **Anknüpfungspunkt für deine Literaturrecherche**: Wo musst du deine Suche vielleicht noch ein wenig verfeinern? Wo verlierst du vielleicht das "Große Ganze" aus den Augen?
+
+</section>
+
+{{3-4}}
+<section>
+
+<h3> Die Weiterentwicklung von Wortlisten </h3>
+
+So sah die Wortliste nach einiger Recherche aus. Einzelne Begriffe haben im Verlauf der Suche **ins Leere geführt** andere sind im Laufe der Recherche dazu gekommen. Manche Begriffe führen zu interessanten Aspekten der Kernthemen, die jedoch für die Zielsetzung der Hausarbeit **nicht gewinnbringend**  sind. Daher wurden sie ebenfalls gestrichen, um die Suche zu verschlanken.
+
+Zusätzlich ist ein ganzer **Kernbegriff** neu dazu gekommen. Dieser hat sich im Laufe der Recherche als vielversprechend herauskristallisiert, sodass er als weiterer Themenaspekt in die Liste aufgenommen wurde. Auf diese Weise kann sich eine Wortliste sehr **dynamisch** mit der Literatursuche entwickeln und sie inhaltlich **nachvollziehbar** machen.
+
+![Bild Wortliste](/media/wortliste2.png)
+
+>➪ **Wortlisten** helfen dir, die Übersicht zu behalten und deine Suche zu strukturieren, indem sie Schlüsselbegriffe festhalten. Eine gut geführte Wortliste kann auch mögliche **inhaltliche Schwerpunkte** für die Strukturierung deiner Arbeit aufzeigen.
+
+</section>
+
+{{4-5}}
+<section>
+
+<h3> Probiere es einmal selbst aus! </h3>
+
+<div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Erstelle einmal eine Wortliste zu einem deiner Themen. Suche dafür mindestens drei zentrale Kernbegriffe aus und fülle die Tabelle für einen der Begriffe aus. 
+Du kannst dafür die leeren Vorlagen ([als .docx](/media/Wortliste.docx)/[als .pdf](/media/Wortliste.pdf)) verwenden oder sie einfach auf ein leeres Blatt Papier bzw. ein digitales Pendant schreiben. 
+<br>
+<br>
+Du wirst die Liste später noch einmal brauchen, also lege sie nicht zu weit weg.</div>
 
 <br>
 
@@ -74,26 +112,10 @@ Eine schnelle und übersichtliche Möglichkeit, an geeignete Suchbegriffe zu kom
 * Singular- und Pluralformen können durch Trunkierung (*) einbezogen werden.
 * Übersetze die Suchbegriffe, wenn du fremdsprachige Rechercheinstrumente verwendest.
 * Überlege, ob die Verbindung mehrerer Begriffe zu einem Kompositum oder die Zerlegung von Komposita zu mehreren Suchbegriffen sinnvoll sein kann.
+* Verwende Fach-Thesauri oder Wörterbücher als Orientierung.
 * Ergänze die Wortliste im Verlauf der Recherche.
 
->➪ **Wortlisten** helfen dir, die Übersicht zu behalten und deine Suche zu strukturieren, indem sie Schlüsselbegriffe festhalten. Eine gute Hilfe bei der Suche nach sinnvollen Suchbegriffen sind **Fach-Thesauri oder Wörterbücher**.
-
-</section>
-
-{{3-4}}
-<section>
-
-<h3> Probiere es einmal selbst aus! </h3>
-
-<div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Aufgabenstellung </div>
-
-<br>
-
-<iframe src="https://einstiegh5p.de/h5p/embed/37285" width="615" height="828" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Wortliste"></iframe><script src="https://einstiegh5p.de/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-wortliste-37285.h5p
-
-??[Wortliste](/media/wortliste-37285.h5p)
+>➪ Wortlisten sind ein wenig wie Mindmaps: Es gibt nicht die EINE richtige Lösung, sondern jede Liste ist eine persönliche Gedankenstütze für deine eigene Hausarbeit. **Hier geht es nicht darum, möglichst viel in die Zeilen zu schreiben, sondern die eigene Suche möglichst effektiv zu steuern.**
 
 </section>
 
