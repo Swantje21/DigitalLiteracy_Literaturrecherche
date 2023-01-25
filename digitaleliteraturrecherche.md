@@ -68,7 +68,7 @@ Fülle im Anschluss die Tabelle mit weiteren Ober- und Unterbegriffen, Synonymen
 
 <h3> Die Verwendung von Wortlisten </h3>
 
-Hier wurde vor Beginn der Recherche eine fiktive Wortliste für eine Hausarbeit geschrieben, die sich inhaltlich mit der Bedeutung von Zeitzeugen in Gedenkstätten zur NS-Geschichte auseinander setzen soll. 
+Hier wurde vor Beginn der Recherche eine fiktive Wortliste für eine Hausarbeit geschrieben, die sich inhaltlich mit der Bedeutung von Zeitzeugen in Gedenkstätten zur NS-Geschichte auseinandersetzen soll. 
 
 ![Bild Wortliste](/media/Wortliste1.png)
 
@@ -115,7 +115,7 @@ Du wirst die Liste später noch einmal brauchen, also lege sie nicht zu weit weg
 * Verwende Fach-Thesauri oder Wörterbücher als Orientierung.
 * Ergänze die Wortliste im Verlauf der Recherche.
 
->➪ Wortlisten sind ein wenig wie Mindmaps: Es gibt nicht die EINE richtige Lösung, sondern jede Liste ist eine persönliche Gedankenstütze für deine eigene Hausarbeit. **Hier geht es nicht darum, möglichst viel in die Zeilen zu schreiben, sondern die eigene Suche möglichst effektiv zu steuern.**
+>➪ Wortlisten sind ein wenig wie Mindmaps: Es gibt nicht die EINE richtige Lösung, sondern jede Liste ist eine persönliche Gedankenstütze für deine eigene Hausarbeit. Hier geht es nicht darum, möglichst viel in die Zeilen zu schreiben, sondern die **eigene Suche möglichst effektiv zu steuern.**
 
 </section>
 
@@ -172,7 +172,7 @@ Wenn dir kein Buch einfällt, dann such doch einfach:
 
 [[OPAC ] [Discovery-Service ]]
 [   [X]        [ ]          ] Allgemeine und gezielte Suchmöglichkeiten (z.B. Personen, Zeitschriftenreihen)
-[   [ ]        [X]          ] Hevorhebung des gesuchten Begriffes
+[   [ ]        [X]          ] Hervorhebung  des gesuchten Begriffes
 [   [X]        [ ]          ] Zeigt standardmäßig die neusten Eintragungen zuerst an
 [   [ ]        [X]          ] Zeigt standardmäßig die relevantesten Eintragungen zuerst an
 [   [X]        [X]          ] Grafische Darstellung des Medientyps und Formats
@@ -191,7 +191,9 @@ Wenn dir kein Buch einfällt, dann such doch einfach:
 
 Fachdatenbanken listen neben Monographien und Sammelwerken hauptsächlich **einzelne Artikel** aus wissenschaftlichen Zeitschriften und Sammelwerken aus einem bestimmten Fachbereich auf. Diese sind häufig aktueller, da Schreib- und Publikationsprozess dieser Beiträge wesentlich kürzer dauert, als bei Büchern. Zusätzlich können sie auch **sehr spezialisierte Aspekte** einzelner Forschungsfelder behandeln, die für deine Arbeit möglicherweise interessant sind.
 
-<div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Kennst du bereits Fachdatenbanken, die für deinen Fachbereich interessant sind? Kennst du allgemeine wissenschaftliche Datenbanken? </div>
+<div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Kennst du bereits Fachdatenbanken, die für deinen Fachbereich interessant sind? 
+
+Kennst du allgemeine wissenschaftliche Datenbanken? </div>
 
 </section>
 
@@ -232,13 +234,14 @@ Bei der Vielzahl an Datenbanken, die es für die verschiedenen Fachbereiche gibt
 
 </section>
 
-## Die Verwendung von Schlüsselbegriffen
+## Die richtige Suchstrategie
 
 {{0-1}}
 <section>
 
 Auch wenn es verlockend ist, solltest du es vermeiden nach ganzen Sätzen oder Fragestellungen zu suchen. Oftmals sind die Ergebnisse, die aus einer solchen Suche resultieren ungenau und zu umfangreich. Diese erst zu sichten und zu sortieren kostet dich viel Zeit.
-Hier kommt deine Wortliste vom ersten Kapitel wieder zum Tragen: Sie hilft dir bei der Suche nach Schlüsselbegriffen und als Orientierung im Suchprozess.
+
+Hier kommt deine **Wortliste** vom ersten Kapitel wieder zum Tragen: Sie hilft dir bei der Suche nach Schlüsselbegriffen und als Orientierung im Suchprozess.
 
 >➪ Versuche zu Beginn deiner Recherche dein Thema und deine Fragestellung durch **zentrale Schlüsselbegriffe** genauer zu definieren. Diese sind hilfreich und auch notwendig für eine gelungene Recherche in einer Online-Datenbank.
 
@@ -250,7 +253,10 @@ Hier kommt deine Wortliste vom ersten Kapitel wieder zum Tragen: Sie hilft dir b
 <h3>Grundlegendes zur Eingabe von Suchbegriffen</h3>
 
 Die richtige Verwendung von Suchbegriffen ist nicht immer so einfach wie bei Google, zumal die Plattformen in der Regel nicht über eine Rechtschreibkorrektur verfügen. Dennoch sind sie elementar wichtig, um deine Anfrage für die jeweilige Datenbank verständlich zu machen. 
-Mit ein wenig Übung fällt es dir aber schnell leicht! Hier ein paar Hinweise zur "richtigen" Eingabe:
+Mit ein wenig Übung fällt es dir aber schnell leicht! 
+<br>
+<br>
+Hier ein paar Hinweise zur "richtigen" Eingabe:
 
 * **Groß- und Kleinschreibung** muss in der Regel nicht beachtet werden.
 * Bei **Sonderzeichen**, wie beispielsweise Akzenten, kannst du die Grundform des Buchstabens verwenden (e statt é).
@@ -265,7 +271,7 @@ Mit ein wenig Übung fällt es dir aber schnell leicht! Hier ein paar Hinweise z
 
 <h3>Die richtige Suche nach Personen, Titeln und Themen</h3>
 
-* Wenn du nach einer **Person** (z.B. dem Verfasser) suchst, beschränke dich auf den Nachnamen. Vornamen sich oft nur in abgekürzter Form aufgeführt oder nicht vorhanden.
+* Bei der **Autor:innensuche** solltest du dieses Format verwenden: *Nachname, Vorname*. Wirst du so nicht fündig, dann beschränke dich auf den Nachnamen. Manchmal sind Vornamen nur in abgekürzter Form aufgeführt oder gar nicht vorhanden.
 * Gib bei der Suche nach einem **Titel** maximal 2-3 Stichwörter ein. Das ist ausreichend, um die Treffermenge einzugrenzen. Zudem verringerst du dadurch das Risiko den gesuchten Titel aufgrund eines Tippfehlers oder wegen einer abweichenden Schreibweise zu übersehen.
 * Bei der Suche nach einem **Thema** solltest du Suchfelder wie „Freitext“, „Schlagwort“ oder „Basic Index“ verwenden. Hierbei können die Bezeichnungen je nach Suchdienst abweichen.
 
@@ -279,6 +285,14 @@ Mit ein wenig Übung fällt es dir aber schnell leicht! Hier ein paar Hinweise z
 
     [[Bp 2115]]
 
+3. Welche Schlagwörter findest du unter dem Eintrag von dem Buch?
+
+    [[X]] Computerspiel
+    [[ ]] Freizeit
+    [[ ]] Geschichte
+    [[X]] Geschichtsdarstellung
+    [[X]] Geschichtswissenschaft
+    
 </div>
 
 </section>
@@ -303,12 +317,28 @@ Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gl
 
 * Du suchst nach: Bibliothek* ⟶ Du findest Treffer mit den Worten: Bibliothek, Bibliotheken, Bibliothekare usw.	
 * Du suchst nach: tele*on ⟶ Du findest Treffer mit den Worten: Telefon, Telephon (aber auch: Television, Telekommunikation usw.)
-* Du suchst nach: do*umentation ⟶ Du findest Treffer mit den Worten: documentation und Dokumentation
+* Du suchst nach: do?umentation ⟶ Du findest Treffer mit den Worten: documentation und Dokumentation
 
 <br>
 
-<div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ Suche ein Stichwort aus deiner Wortliste aus und suche es im [OPAC](https://katalog.ub.uni-kiel.de/)! Wie verändert sich die Trefferanzahl, wenn du Bestandteile des Wortes mit * trunkierst? Wie verändert sich die Trefferanzahl, wenn du stattdessen ein ? verwendest? Welche Kombination ergab die besten Treffer für diese Suche?</div>
+<div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ Suche ein Stichwort aus deiner Wortliste aus und suche es im [OPAC](https://katalog.ub.uni-kiel.de/)! Wie verändert sich die Trefferanzahl, wenn du Bestandteile des Wortes mit * trunkierst? Wie verändert sich die Trefferanzahl, wenn du stattdessen ein ? verwendest? Welche Kombination ergab die besten Treffer für diese Suche?
 
+Wenn ich das * verwende...
+
+[[ werden die Ergebnisse **weniger**. 
+| ( werden die Ergebnisse **mehr**. ) 
+| bleiben die Ergebnisse **gleich**. ]]
+
+Wenn ich statt dem * das ? verwende...
+
+    [[  (werden die Ergebnisse **weniger**.)
+    | werden die Ergebnisse **mehr**.
+    | bleiben die Ergebnisse **gleich**. ]]
+
+Für **diese konkrete** Suche war diese Kombination am Besten: 
+
+    [[___]]
+</div>
 <br>
 
 <div style="background-color:#feb7b2;padding: 25px;border: no;"> **Achtung**: In manchen Suchdiensten können Platzhaltern überhaupt nicht oder nur am Ende eines Wortes verwendet werden oder es kann nur das Sternchen verwendet werden und nicht das Fragezeichen. Am Anfang eines Wortes kannst du Platzhalter in aller Regel nicht verwenden.</div>
@@ -352,7 +382,11 @@ Verwende Anführungsstrichen, um Wörter als zusammenhängenden Ausdruck (Phrase
 
 >➪ Die Phrasensuche setzt die Suchbegriffe im Unterschied zur UND-Suche auf eine bestimmte Wortreihenfolge fest.
 
-<div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ Aufgabe: Versuche einmal, mehrere Begriffe von deiner Wortliste auf unterschiedliche Weise miteinander zu kombinieren und beobachte dabei die Ergebnisse. Was verändert sich? Welche Kombinationsmöglichkeiten machen Sinn, welche weniger?</div>
+<div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ Aufgabe: Versuche einmal, mehrere Begriffe von deiner Wortliste auf unterschiedliche Weise miteinander zu kombinieren und beobachte dabei die Ergebnisse. Was verändert sich? Welche Kombinationsmöglichkeiten machen Sinn, welche weniger?
+
+<font color =399193>[Prüfen](/media/Kombinationen.png)</font>
+
+</div>
 
 </section>
 
