@@ -189,7 +189,7 @@ Wenn dir kein Buch einfällt, dann such doch einfach:
 
 <h3>Fachdatenbanken</h3>
 
-Fachdatenbanken listen neben Monographien und Sammelwerken hauptsächlich **einzelne Artikel** aus wissenschaftlichen Zeitschriften und Sammelwerken aus einem bestimmten Fachbereich auf. Diese sind häufig aktueller, da Schreib- und Publikationsprozess dieser Beiträge wesentlich kürzer dauert, als bei Büchern. Zusätzlich können sie auch **sehr spezialisierte Aspekte** einzelner Forschungsfelder behandeln, die für deine Arbeit möglicherweise interessant sind.
+Fachdatenbanken listen neben Monographien und Sammelwerken hauptsächlich **einzelne Artikel** aus wissenschaftlichen Zeitschriften und Sammelwerken aus einem bestimmten Fachbereich auf. Diese sind häufig aktueller, da Schreib- und Publikationsprozess dieser Beiträge wesentlich kürzer dauert als bei Büchern. Zusätzlich können sie auch **sehr spezialisierte Aspekte** einzelner Forschungsfelder behandeln, die für deine Arbeit möglicherweise interessant sind.
 
 <div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Kennst du bereits Fachdatenbanken, die für deinen Fachbereich interessant sind? 
 
@@ -217,7 +217,7 @@ Welche Fachdatenbanken werden dir vorgeschlagen? Was für Spezialisierungen habe
 
 Allgemeine Suchmaschinen wie Google eignen sich häufig für einen **schnellen Überblick** über ein bestimmtes Thema. Für eine tiefere Recherche eignen sie sich jedoch aus einigen Gründen in der Regel nicht.
 
-Dazu gehört neben den Problemen der Relevanzbewertung durch die Suchmaschine selber und das Fehlen von systematischen Qualitätskriterien auch das Problem der Zugänglichkeit: Wissenschaftliche Literatur findet sich häufig in lizensierten Datenbanken und geschlossenen Bibliothekssystemen. Diese Daten befinden sich im sogenannten **"Deep Web"** und sind daher für Suchmaschinen nicht zu finden.
+Dazu gehört neben den Problemen der Relevanzbewertung durch die Suchmaschine selbst und das Fehlen von systematischen Qualitätskriterien auch das Problem der Zugänglichkeit: Wissenschaftliche Literatur findet sich häufig in lizensierten Datenbanken und geschlossenen Bibliothekssystemen. Diese Daten befinden sich im sogenannten **"Deep Web"** und sind daher für Suchmaschinen nicht zu finden.
 
 >➪Allgemeine Suchmaschinen und eine breitere Internetrecherche können besonders für den Anfang auf der Suche nach einem schnellen ersten Überblick sehr hilfreich sein. **Eine vertiefte Literaturrecherche ist jedoch nicht möglich.**
 
@@ -239,7 +239,7 @@ Bei der Vielzahl an Datenbanken, die es für die verschiedenen Fachbereiche gibt
 {{0-1}}
 <section>
 
-Auch wenn es verlockend ist, solltest du es vermeiden nach ganzen Sätzen oder Fragestellungen zu suchen. Oftmals sind die Ergebnisse, die aus einer solchen Suche resultieren ungenau und zu umfangreich. Diese erst zu sichten und zu sortieren kostet dich viel Zeit.
+Auch wenn es verlockend ist, solltest du es vermeiden nach ganzen Sätzen oder Fragestellungen zu suchen. Oftmals sind die Ergebnisse, die aus einer solchen Suche resultieren ungenau und zu umfangreich. Diese erst zu sichten und zu sortieren, kostet dich viel Zeit.
 
 Hier kommt deine **Wortliste** vom ersten Kapitel wieder zum Tragen: Sie hilft dir bei der Suche nach Schlüsselbegriffen und als Orientierung im Suchprozess.
 
@@ -271,21 +271,22 @@ Hier ein paar Hinweise zur "richtigen" Eingabe:
 
 <h3>Die richtige Suche nach Personen, Titeln und Themen</h3>
 
-* Bei der **Autor:innensuche** solltest du dieses Format verwenden: *Nachname, Vorname*. Wirst du so nicht fündig, dann beschränke dich auf den Nachnamen. Manchmal sind Vornamen nur in abgekürzter Form aufgeführt oder gar nicht vorhanden.
+* Bei der **Autor:innensuche** solltest du dieses Format verwenden: *Nachname, Vorname*. Wirst du so nicht fündig, beschränke dich auf den Nachnamen. Manchmal sind Vornamen nur in abgekürzter Form aufgeführt oder gar nicht vorhanden.
 * Gib bei der Suche nach einem **Titel** maximal 2-3 Stichwörter ein. Das ist ausreichend, um die Treffermenge einzugrenzen. Zudem verringerst du dadurch das Risiko den gesuchten Titel aufgrund eines Tippfehlers oder wegen einer abweichenden Schreibweise zu übersehen.
 * Bei der Suche nach einem **Thema** solltest du Suchfelder wie „Freitext“, „Schlagwort“ oder „Basic Index“ verwenden. Hierbei können die Bezeichnungen je nach Suchdienst abweichen.
 
 <div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ Beantworte mithilfe des [OPAC](https://katalog.ub.uni-kiel.de/) folgende Fragen:
 
-1. Aus welchem Jahr ist der älteste Aufsatz von Albert Einstein, der im OPAC zu finden ist?
+1. Aus welchem Jahr ist das älteste Buch von Albert Einstein, das im OPAC zu finden ist?
 
     [[1905]]
+    [[?]] *Sieh dir einmal die Suchfilter über dem Eingabefeld an. Gibt es dort vielleicht einen schnellen Weg, nur einen bestimmten Autor anzeigen zu lassen?*
 
 2. Dein Dozent empfiehlt dir für deine Hausarbeit einen bestimmten Aufsatz aus dem Buch *""Wollten Sie auch immer schon einmal pestverseuchte Kühe auf ihre Gegner werfen?": eine fachwissenschaftliche Annährung an Geschichte im Computerspiel"*. Suche das Buch mithilfe von unterschiedlichen Stichworten. Unter welcher Signatur steht das Buch in der Universitätsbibliothek?
 
     [[Bp 2115]]
 
-3. Welche Schlagwörter findest du unter dem Eintrag von dem Buch?
+3. Welche Schlagwörter findest du unter dem Eintrag des Buches?
 
     [[X]] Computerspiel
     [[ ]] Freizeit
@@ -335,7 +336,7 @@ Wenn ich statt dem * das ? verwende...
     | werden die Ergebnisse **mehr**.
     | bleiben die Ergebnisse **gleich**. ]]
 
-Für **diese konkrete** Suche war diese Kombination am Besten: 
+Für **diese konkrete** Suche war diese Kombination am besten: 
 
     [[___]]
 </div>
@@ -426,7 +427,7 @@ Verwende das Wort NOT (in Großbuchstaben) oder das Minuszeichen, um Treffer zu 
 [[X] [ ]] Bei einer ODER-Verknüpfung wird der Suchbereich stark erweitert. Es kommt daher zu sehr vielen Treffern.
 [[ ] [X]] Es ist nicht möglich gleichzeitig nach verschiedenen Schreibweisen eines Begriffs zu suchen. Sowas muss manuell und einzeln nacheinander eingegeben werden.
 [[ ] [X]] Jede Suchmaschine funktioniert gleich.
-[[X] [ ]] Ich sollte bei der Literatursuche immer ein wenig mit den Parametern und Schlagworten spielen, wenn die Schlüsselbegriffe nicht zu einem guten Ergebnis führen
+[[X] [ ]] Ich sollte bei der Literatursuche immer ein wenig mit den Parametern und Schlagworten spielen, wenn die Schlüsselbegriffe nicht zu einem guten Ergebnis führen.
 [[ ] [X]] Der Katalog der Universität zu Kiel ist für eine umfangreiche Literaturrecherche vollkommen ausreichend.  
 [[X] [ ]] Ich kann die Anzahl der Suchergebnisse mithilfe von verschiedenen Modifikationen und Einstellmöglichkeiten variieren.
 
