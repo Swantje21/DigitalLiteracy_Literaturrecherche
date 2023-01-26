@@ -57,9 +57,9 @@ Fülle im Anschluss die Tabelle mit weiteren Ober- und Unterbegriffen, Synonymen
 
 **Hier kannst du dir eine leere Wortliste herunterladen:**
 
-- [als .docx-Datei](/media/Wortliste.docx)
+- [als .docx-Datei](/Download-Dateien/Wortliste.docx)
 
-- [als .pdf-Datei](/media/Wortliste.pdf)
+- [als .pdf-Datei](/Download-Dateien//Wortliste.pdf)
 
 </section>
 
