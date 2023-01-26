@@ -202,8 +202,7 @@ Kennst du allgemeine wissenschaftliche Datenbanken? </div>
 
 Eine gute **Übersicht** bietet dir das Datenbank-Infosystem (DBIS) der Universitätsbibliothek Kiel. Dort ist eine Vielzahl verschiedener Datenbanken nach Fachbereichen sortiert aufgelistet. Diese sind entweder frei zugänglich oder von der Universitätsbibliothek Kiel lizensiert.
 
-![alt](Media/DBIS.PNG)
-[Link zum Datenbank-Infosystem (DBIS)](http://rzblx10.uni-regensburg.de/dbinfo/fachliste.php?bib_id=ubk&lett=l&colors=&ocolors=)
+![alt](Media/DBIS.PNG)[Link zum Datenbank-Infosystem (DBIS)](http://rzblx10.uni-regensburg.de/dbinfo/fachliste.php?bib_id=ubk&lett=l&colors=&ocolors=)
 
 <div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Suche doch einmal auf der Seite des DBIS nach deinem Fachbereich und klicke auf ihn.<br>
 Welche Fachdatenbanken werden dir vorgeschlagen? Was für Spezialisierungen haben sie? </div>
@@ -241,7 +240,7 @@ Bei der Vielzahl an Datenbanken, die es für die verschiedenen Fachbereiche gibt
 
 Auch wenn es verlockend ist, solltest du es vermeiden nach ganzen Sätzen oder Fragestellungen zu suchen. Oftmals sind die Ergebnisse, die aus einer solchen Suche resultieren ungenau und zu umfangreich. Diese erst zu sichten und zu sortieren, kostet dich viel Zeit.
 
-Hier kommt deine **Wortliste** vom ersten Kapitel wieder zum Tragen: Sie hilft dir bei der Suche nach Schlüsselbegriffen und als Orientierung im Suchprozess.
+Hier kommt deine **Wortliste** vom ersten Kapitel wieder zum Tragen: Sie hilft dir bei der Suche nach Schlüsselbegriffen und als Orientierung im Suchprozess. Auch die Verwendung von **Literaturverwaltungsprogrammen** wie Citavi oder EndNote helfen dir, den Überblick über die gelesenen Quellen zu bewahren.
 
 >➪ Versuche zu Beginn deiner Recherche dein Thema und deine Fragestellung durch **zentrale Schlüsselbegriffe** genauer zu definieren. Diese sind hilfreich und auch notwendig für eine gelungene Recherche in einer Online-Datenbank.
 
@@ -294,6 +293,12 @@ Hier ein paar Hinweise zur "richtigen" Eingabe:
     [[X]] Geschichtsdarstellung
     [[X]] Geschichtswissenschaft
     
+4. Klicke einmal auf die unterschiedlichen Schlagwörter und sieh dir die Ergebnisse an: Was für eine Funktion erfüllen die verlinkten Schlagwörter? 
+
+    [[Sie sind Stichwörter aus dem Titel des jeweiligen Werks und erleichtern die Suche nach dem Eintrag.
+    |  (Sie sind normierte Vokabeln und beschreiben den Inhalt des jeweiligen Werks unabhängig vom Titel. Auf diese Weise erleichtern sie die Suche nach ähnlichen Werken.)
+    ]]
+    
 </div>
 
 </section>
@@ -305,7 +310,9 @@ Hier ein paar Hinweise zur "richtigen" Eingabe:
 
 Deine Literatursuche wirft viel zu viele oder fast gar keine Ergebnisse ab? Keine Panik - in den meisten Fällen muss man einfach ein wenig Herumprobieren und mehrere Suchdurchläufe starten, um ein zufriedenstellendes Ergebnis zu bekommen. 
 
->➪ Beobachte die **Suchergebnisse** deiner Suche und passe deine Sucheingaben entsprechend an, um noch effektiver Suchen zu können.
+Hier findest du noch ein paar nützliche Opteratoren, die dir helfen, deine eigene Suche mit wenigen Handgriffen zu erweitern oder weiter zu verkleinern. Auf diese Weise kannst du deine Suchergebnisse entsprechend steuern
+
+>➪ Beobachte die Suchergebnisse deiner Suche und passe deine Sucheingaben entsprechend an, um noch effektiver Suchen zu können.
 
 </section>
 
@@ -363,7 +370,7 @@ Verwende das Wort AND (in Großbuchstaben), das Pluszeichen oder einfach das Lee
 * digital +literacy
 * digital literacy
 
->➪ Bei Verwendung des Leerzeichens werden zum Teil zuerst die Treffer angezeigt, in denen alle Suchbegriffe vorkommen und dann die, in denen nur einige oder nur einer der eingegebenen Suchbegriffe vorkommt.
+>![Bild AND](/media/AND.png) ➪ Bei Verwendung des Leerzeichens werden zum Teil zuerst die Treffer angezeigt, in denen alle Suchbegriffe vorkommen und dann die, in denen nur einige oder nur einer der eingegebenen Suchbegriffe vorkommt. 
 
 **Einen oder mehrere Begriffe finden (ODER)**
 
@@ -372,7 +379,7 @@ Verwende das Wort OR (in Großbuchstaben) oder die Klammern ( ), um Treffer entw
 * star OR stern
 * (star stern)
 
->➪ Eine ODER-Verknüpfung erweitert den Suchbereich stark. Das führt häufig zu sehr vielen Treffern.
+>![Bild OR](/media/OR.png)➪ Eine ODER-Verknüpfung erweitert den Suchbereich stark. Das führt häufig zu sehr vielen Treffern.
 
 **Phrasen finden (" ")**
 
@@ -381,7 +388,7 @@ Verwende Anführungsstrichen, um Wörter als zusammenhängenden Ausdruck (Phrase
 * "Allgemeine Relativitätstheorie"
 * "Bunte Kühe am Strand"
 
->➪ Die Phrasensuche setzt die Suchbegriffe im Unterschied zur UND-Suche auf eine bestimmte Wortreihenfolge fest.
+>![Bild Phrase](/media/phrase.png)➪ Die Phrasensuche setzt die Suchbegriffe im Unterschied zur UND-Suche auf eine bestimmte Wortreihenfolge fest.
 
 <div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ Aufgabe: Versuche einmal, mehrere Begriffe von deiner Wortliste auf unterschiedliche Weise miteinander zu kombinieren und beobachte dabei die Ergebnisse. Was verändert sich? Welche Kombinationsmöglichkeiten machen Sinn, welche weniger?
 
@@ -400,6 +407,8 @@ Verwende das Wort NOT (in Großbuchstaben) oder das Minuszeichen, um Treffer zu 
 
 * digital NOT literacy
 * digital -literacy
+
+>![Bild NOT](/media/NOT.png)➪ Die NOT-Suche verkleinert den Suchbereich, indem sie nur die Begriffe vor dem NOT sucht und den hinter dem NOT ausschließt.
 
 <div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ An welcher Stelle könnte die Verwendung von NOT bei einer Suche hilfreich sein?
 
@@ -420,7 +429,7 @@ Verwende das Wort NOT (in Großbuchstaben) oder das Minuszeichen, um Treffer zu 
 <h3>Richtig oder falsch?</h3>
 
 [[_richtig_] [_falsch_]]
-[[ ] [X]] Bei einer Suche nach einem Verfasser sollte unbedingt der vollständige Name eingegeben werden. Sonst kommt es zu Verwechslungen.
+[[X] [ ]] Ich sollte auf der Suche nach Suchbegriffen für meine Recherche möglichst aussagekräftige Begriffe verwenden und unnötige Füllwörter vermeiden. 
 [[ ] [X]] Sonderzeichen und Umlaute müssen unbedingt richtig geschrieben werden, damit auch der richtige Begriff gefunden werden kann.
 [[X] [ ]] Bei der Suche nach einem Thema sollte als Suchfeld entweder "Freitext", "Schlagwort" oder "Basic Index" verwendet werden.
 [[X] [ ]] Wenn ich nach besonders neuen oder speziellen Themen suche, sollte ich eine Fachdatenbank verwenden.
@@ -435,7 +444,7 @@ Verwende das Wort NOT (in Großbuchstaben) oder das Minuszeichen, um Treffer zu 
 
 Die Tipps und Tricks, die du eben erhalten hast, bilden das Basiswissen, das du für eine erfolgreiche Online-Recherche benötigst. Wenn du dein Wissen in diesem Bereich weiter ausbauen möchtest, können dir diese Links helfen:
 
+* [E-Learning-Angebote zum wissenschaftlichen Arbeiten der CAU](https://www.ub.uni-kiel.de/de/beratung-kurse/e-learning-angebote/linkliste)
 * [Tipps für die Recherche - Universität Bielefeld](https://www.uni-bielefeld.de/ub/search/help/)
 * [Tipps für die Recherche im Internet](https://studieren.de/recherchieren-internet.0.html)
 * [Kann man das googlen? - 10 Tipps für eine gelungene Internetrecherche](https://magazin.sofatutor.com/schueler/kann-man-das-googlen-10-tipps-fuer-eine-gelungene-internetrecherche/)
-* [E-Learning-Angebote zum wissenschaftlichen Arbeiten der CAU](https://www.ub.uni-kiel.de/de/beratung-kurse/e-learning-angebote/linkliste)
