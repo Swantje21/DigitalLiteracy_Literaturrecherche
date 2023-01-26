@@ -292,7 +292,7 @@ Hier ein paar Hinweise zur "richtigen" Eingabe:
     [[ ]] Geschichte
     [[X]] Geschichtsdarstellung
     [[X]] Geschichtswissenschaft
-    
+
 4. Klicke einmal auf die unterschiedlichen Schlagwörter und sieh dir die Ergebnisse an: Was für eine Funktion erfüllen die verlinkten Schlagwörter? 
 
     [[Sie sind Stichwörter aus dem Titel des jeweiligen Werks und erleichtern die Suche nach dem Eintrag.
