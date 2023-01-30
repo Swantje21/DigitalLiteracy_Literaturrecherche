@@ -27,7 +27,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 Literaturrecherche und die Arbeit mit Literatur sind feste Bestandteile des Studiums. Doch wo fängt man überhaupt an, Literatur zu suchen? Welche Datenbanken könnten dabei helfen und wie werden sie möglichst effektiv genutzt? 
 Mit den richtigen Basics ist die Literaturrecherche gar nicht so schwer!
 
->➪ Im Folgenden stellen wir euch einige nützliche Tools und Portale zum Finden und Abrufen von Literatur vor. Den Abschluss bilden einige Hinweise zur Eingrenzung von Themen.
+>➪ Im Folgenden stellen wir dir einige nützliche Strategien und Tools für die Literatursuche vor.
 
 </section>
 
@@ -388,7 +388,7 @@ Verwende Anführungsstrichen, um Wörter als zusammenhängenden Ausdruck (Phrase
 * "Allgemeine Relativitätstheorie"
 * "Bunte Kühe am Strand"
 
->![Bild Phrase](/media/phrase.png)➪ Die Phrasensuche setzt die Suchbegriffe im Unterschied zur UND-Suche auf eine bestimmte Wortreihenfolge fest.
+>![Bild Phrase](/media/phrase.png)➪ Die Phrasensuche setzt die Suchbegriffe im Unterschied zur UND-Suche auf eine bestimmte Reihenfolge der Suchbegriffe fest.
 
 <div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ Aufgabe: Versuche einmal, mehrere Begriffe von deiner Wortliste auf unterschiedliche Weise miteinander zu kombinieren und beobachte dabei die Ergebnisse. Was verändert sich? Welche Kombinationsmöglichkeiten machen Sinn, welche weniger?
 
