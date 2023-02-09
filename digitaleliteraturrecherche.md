@@ -328,6 +328,12 @@ Hier ein paar Hinweise zur "richtigen" Eingabe:
         {{0-1}}
 <section>
 
+<div style=width:40%>
+  <img src="media/Comic.png" alt="Comic Bücherstapel auf einem Schreibtisch">
+</div>
+
+<br>
+
 Deine Literatursuche wirft viel zu viele oder fast gar keine Ergebnisse ab? Keine Panik - in den meisten Fällen muss man einfach ein wenig Herumprobieren und mehrere Suchdurchläufe starten, um ein zufriedenstellendes Ergebnis zu bekommen. 
 
 Hier findest du noch ein paar nützliche Opteratoren, die dir helfen, deine eigene Suche mit wenigen Handgriffen zu erweitern oder weiter zu verkleinern. Auf diese Weise kannst du deine Suchergebnisse entsprechend steuern
