@@ -27,13 +27,33 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 Literaturrecherche und die Arbeit mit Literatur sind feste Bestandteile des Studiums. Doch wo fängt man überhaupt an, Literatur zu suchen? Welche Datenbanken könnten dabei helfen und wie werden sie möglichst effektiv genutzt? 
 Mit den richtigen Basics ist die Literaturrecherche gar nicht so schwer!
 
->➪ Im Folgenden stellen wir dir einige nützliche Strategien und Tools für die Literatursuche vor.
+In diesem Baustein stellen wir dir einige nützliche Strategien und Tools für die Literatursuche vor. Der Kurs ist in folgende sechs Kapitel gegliedert:
+
+<br>
+
+* [Vom Thema zum Suchbegriff](#2)
+
+* [Bibliografien und Literaturdatenbanken](#3)
+
+* [Die richtige Suchstrategie](#4)
+
+* [Modifizierung der Suche](#5)
+
+* [kleiner Selbsttest](#6)
+
+* [Weiterführende Links](#7)
+
+ Du kannst alle sechs Kapitel in der vorgegebenen Reihenfolge abschließen. Du kannst aber auch bereits bekannte Inhalte überspringen oder gezielt einzelne Kapitel ansteuern. 
+ 
+<br>
+
+ Wir wünschen dir viel Spaß!
 
 </section>
 
 ## Vom Thema zum Suchbegriff
 
-{{0-1}}
+        {{0-1}}
 <section>
 
 Eine Literaturrecherche beginnt am besten mit einem leeren Blatt Papier. Denn zuallererst musst du herausfinden, wonach du überhaupt suchen musst. Auch wenn du schon ein grobes Thema für deine Recherche hast, gilt es nun erst einmal, das Thema genauer zu beschreiben und in mögliche Teilaspekte zu teilen. Auf diese Weise erhältst du geeignete Suchbegriffe, mit denen du dich dann auf die Suche nach passender Literatur begeben kannst.
@@ -42,7 +62,7 @@ Eine Literaturrecherche beginnt am besten mit einem leeren Blatt Papier. Denn zu
 
 </section>
 
-{{1-2}}
+        {{1-2}}
 <section>
 
 <h3> Auf der Suche nach Kernbegriffen </h3>
@@ -53,7 +73,7 @@ Fülle im Anschluss die Tabelle mit weiteren Ober- und Unterbegriffen, Synonymen
 
 ![Bild Wortliste leer](/media/leer.png)
 
->➪ **Auf der nächsten Seite findest du ein Beispiel für eine ausgefüllte Wortliste.**
+>➪ Auf der nächsten Seite findest du ein Beispiel für eine ausgefüllte Wortliste.
 
 **Hier kannst du dir eine leere Wortliste herunterladen:**
 
@@ -63,7 +83,7 @@ Fülle im Anschluss die Tabelle mit weiteren Ober- und Unterbegriffen, Synonymen
 
 </section>
 
-{{2-3}}
+        {{2-3}}
 <section>
 
 <h3> Die Verwendung von Wortlisten </h3>
@@ -76,7 +96,7 @@ Hier wurde vor Beginn der Recherche eine fiktive Wortliste für eine Hausarbeit 
 
 </section>
 
-{{3-4}}
+        {{3-4}}
 <section>
 
 <h3> Die Weiterentwicklung von Wortlisten </h3>
@@ -91,7 +111,7 @@ Zusätzlich ist ein ganzer **Kernbegriff** neu dazu gekommen. Dieser hat sich im
 
 </section>
 
-{{4-5}}
+        {{4-5}}
 <section>
 
 <h3> Probiere es einmal selbst aus! </h3>
@@ -121,7 +141,7 @@ Du wirst die Liste später noch einmal brauchen, also lege sie nicht zu weit weg
 
 ## Bibliografien und Literaturdatenbanken
 
-{{0-1}}
+        {{0-1}}
 <section>
 
 Nachdem du dir eine Übersicht gemacht hast, WAS du suchen willst, folgt nun die Frage, WO man überhaupt sucht. Für eine erfolgreiche Onlinerecherche ist die Auswahl einer geeigneten Datenbank sehr wichtig. Im Folgenden sollst du erfahren, wie und wo du geeignete Datenbanken finden kannst. 
@@ -136,7 +156,7 @@ Zur besseren Übersicht grenzen wir einmal drei unterschiedliche **Suchräume** 
 
 </section>
 
-{{1-2}}
+        {{1-2}}
 <section>
 
 <h3> Kataloge der Universitätsbibliothek</h3>
@@ -153,7 +173,7 @@ Beide Kataloge bieten viele Möglichkeiten, die Suche einzuschränken und zu spe
 
 </section>
 
-{{2-3}}
+        {{2-3}}
 <section>
 
 <h3>Was bieten die Kataloge?</h3>
@@ -184,7 +204,7 @@ Wenn dir kein Buch einfällt, dann such doch einfach:
 
 </section>
 
-{{3-4}}
+        {{3-4}}
 <section>
 
 <h3>Fachdatenbanken</h3>
@@ -197,7 +217,7 @@ Kennst du allgemeine wissenschaftliche Datenbanken? </div>
 
 </section>
 
-{{4-5}}
+        {{4-5}}
 <section>
 
 Eine gute **Übersicht** bietet dir das Datenbank-Infosystem (DBIS) der Universitätsbibliothek Kiel. Dort ist eine Vielzahl verschiedener Datenbanken nach Fachbereichen sortiert aufgelistet. Diese sind entweder frei zugänglich oder von der Universitätsbibliothek Kiel lizensiert.
@@ -209,7 +229,7 @@ Welche Fachdatenbanken werden dir vorgeschlagen? Was für Spezialisierungen habe
 
 </section>
 
-{{5-6}}
+        {{5-6}}
 <section>
 
 <h3>Internetrecherche</h3>
@@ -222,7 +242,7 @@ Dazu gehört neben den Problemen der Relevanzbewertung durch die Suchmaschine se
 
 </section>
 
-{{6-7}}
+        {{6-7}}
 <section>
 
 <h3>Auch mal nach Hilfe fragen</h3>
@@ -235,18 +255,18 @@ Bei der Vielzahl an Datenbanken, die es für die verschiedenen Fachbereiche gibt
 
 ## Die richtige Suchstrategie
 
-{{0-1}}
+        {{0-1}}
 <section>
 
 Auch wenn es verlockend ist, solltest du es vermeiden nach ganzen Sätzen oder Fragestellungen zu suchen. Oftmals sind die Ergebnisse, die aus einer solchen Suche resultieren ungenau und zu umfangreich. Diese erst zu sichten und zu sortieren, kostet dich viel Zeit.
 
-Hier kommt deine **Wortliste** vom ersten Kapitel wieder zum Tragen: Sie hilft dir bei der Suche nach Schlüsselbegriffen und als Orientierung im Suchprozess. Auch die Verwendung von **Literaturverwaltungsprogrammen** wie Citavi oder EndNote helfen dir, den Überblick über die gelesenen Quellen zu bewahren.
+Hier kommt deine **Wortliste** vom ersten Kapitel wieder zum Tragen: Sie hilft dir bei der Suche nach Schlüsselbegriffen und als Orientierung im Suchprozess. Auch die Verwendung von **Literaturverwaltungsprogrammen**[^1](https://www.ub.uni-kiel.de/de/beratung-kurse/literaturverwaltung) wie Citavi oder EndNote helfen dir, den Überblick über die gelesenen Quellen zu bewahren.
 
 >➪ Versuche zu Beginn deiner Recherche dein Thema und deine Fragestellung durch **zentrale Schlüsselbegriffe** genauer zu definieren. Diese sind hilfreich und auch notwendig für eine gelungene Recherche in einer Online-Datenbank.
 
 </section>
 
-{{1-2}}
+        {{1-2}}
 <section>
 
 <h3>Grundlegendes zur Eingabe von Suchbegriffen</h3>
@@ -265,7 +285,7 @@ Hier ein paar Hinweise zur "richtigen" Eingabe:
 
 </section>
 
-{{2-3}}
+        {{2-3}}
 <section>
 
 <h3>Die richtige Suche nach Personen, Titeln und Themen</h3>
@@ -305,7 +325,7 @@ Hier ein paar Hinweise zur "richtigen" Eingabe:
 
 ## Modifizierung der Suche
 
-{{0-1}}
+        {{0-1}}
 <section>
 
 Deine Literatursuche wirft viel zu viele oder fast gar keine Ergebnisse ab? Keine Panik - in den meisten Fällen muss man einfach ein wenig Herumprobieren und mehrere Suchdurchläufe starten, um ein zufriedenstellendes Ergebnis zu bekommen. 
@@ -316,7 +336,7 @@ Hier findest du noch ein paar nützliche Opteratoren, die dir helfen, deine eige
 
 </section>
 
-{{1-2}}
+        {{1-2}}
 <section>
 
 <h3>Die Verwendung von Platzhaltern (Trunkierung)</h3>
@@ -353,7 +373,7 @@ Für **diese konkrete** Suche war diese Kombination am besten:
 
 </section>
 
-{{2-3}}
+        {{2-3}}
 <section>
 
 <h3>Suchbegriffe kombinieren</h3>
@@ -398,7 +418,7 @@ Verwende Anführungsstrichen, um Wörter als zusammenhängenden Ausdruck (Phrase
 
 </section>
 
-{{3-4}}
+        {{3-4}}
 <section>
 
 <h3>Begriffe aus der Suche ausschließen</h3>
