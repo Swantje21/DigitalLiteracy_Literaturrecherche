@@ -118,7 +118,7 @@ Zusätzlich ist ein ganzer **Kernbegriff** neu dazu gekommen. Dieser hat sich im
 
 <h3> Probiere es einmal selbst aus! </h3>
 
-<div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Erstelle einmal eine Wortliste zu einem deiner Themen. Suche dafür mindestens drei zentrale Kernbegriffe aus und fülle die Tabelle für einen der Begriffe aus. 
+<div style="background-color:rgba(255, 230, 179, 0.6);padding: 25px;border: no;">✎ Erstelle einmal eine Wortliste zu einem deiner Themen. Suche dafür mindestens drei zentrale Kernbegriffe aus und fülle die Tabelle für einen der Begriffe aus. 
 Du kannst dafür die leeren Vorlagen ([als .docx](/media/Wortliste.docx)/[als .pdf](/media/Wortliste.pdf)) verwenden oder sie einfach auf ein leeres Blatt Papier bzw. ein digitales Pendant schreiben. 
 <br>
 <br>
@@ -186,7 +186,7 @@ Beide Kataloge der Universitätsbibliothek bieten einen schnellen Überblick üb
 
 [Link zum Discovery-Service](https://discovery.ub.uni-kiel.de)
 
-<div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Öffne einmal beide Kataloge in deinem Browser, suche nach einem Buch von deiner Literaturliste und bearbeite nun das **Quiz** unten.<br>
+<div style="background-color:rgba(255, 230, 179, 0.6)b3;padding: 25px;border: no;">✎ Öffne einmal beide Kataloge in deinem Browser, suche nach einem Buch von deiner Literaturliste und bearbeite nun das **Quiz** unten.<br>
 <br>
 Wenn dir kein Buch einfällt, dann such doch einfach:
 <br>
@@ -213,7 +213,7 @@ Wenn dir kein Buch einfällt, dann such doch einfach:
 
 Fachdatenbanken listen neben Monographien und Sammelwerken hauptsächlich **einzelne Artikel** aus wissenschaftlichen Zeitschriften und Sammelwerken aus einem bestimmten Fachbereich auf. Diese sind häufig aktueller, da Schreib- und Publikationsprozess dieser Beiträge wesentlich kürzer dauert als bei Büchern. Zusätzlich können sie auch **sehr spezialisierte Aspekte** einzelner Forschungsfelder behandeln, die für deine Arbeit möglicherweise interessant sind.
 
-<div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Kennst du bereits Fachdatenbanken, die für deinen Fachbereich interessant sind? 
+<div style="background-color:rgba(255, 230, 179, 0.6);padding: 25px;border: no;">✎ Kennst du bereits Fachdatenbanken, die für deinen Fachbereich interessant sind? 
 
 Kennst du allgemeine wissenschaftliche Datenbanken? </div>
 
@@ -226,7 +226,7 @@ Eine gute **Übersicht** bietet dir das Datenbank-Infosystem (DBIS) der Universi
 
 ![alt](Media/DBIS.PNG)[Link zum Datenbank-Infosystem (DBIS)](http://rzblx10.uni-regensburg.de/dbinfo/fachliste.php?bib_id=ubk&lett=l&colors=&ocolors=)
 
-<div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Suche doch einmal auf der Seite des DBIS nach deinem Fachbereich und klicke auf ihn.<br>
+<div style="background-color:rgba(255, 230, 179, 0.6);padding: 25px;border: no;">✎ Suche doch einmal auf der Seite des DBIS nach deinem Fachbereich und klicke auf ihn.<br>
 Welche Fachdatenbanken werden dir vorgeschlagen? Was für Spezialisierungen haben sie? </div>
 
 </section>
@@ -296,7 +296,7 @@ Hier ein paar Hinweise zur "richtigen" Eingabe:
 * Gib bei der Suche nach einem **Titel** maximal 2-3 Stichwörter ein. Das ist ausreichend, um die Treffermenge einzugrenzen. Zudem verringerst du dadurch das Risiko den gesuchten Titel aufgrund eines Tippfehlers oder wegen einer abweichenden Schreibweise zu übersehen.
 * Bei der Suche nach einem **Thema** solltest du Suchfelder wie „Freitext“, „Schlagwort“ oder „Basic Index“ verwenden. Hierbei können die Bezeichnungen je nach Suchdienst abweichen.
 
-<div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ Beantworte mithilfe des [OPAC](https://katalog.ub.uni-kiel.de/) folgende Fragen:
+<div style="background-color:rgba(255, 230, 179, 0.6);padding: 25px;border: no;"> ✎ Beantworte mithilfe des [OPAC](https://katalog.ub.uni-kiel.de/) folgende Fragen:
 
 1. Aus welchem Jahr ist das älteste Buch von Albert Einstein, das im OPAC zu finden ist?
 
@@ -340,7 +340,7 @@ Deine Literatursuche wirft viel zu viele oder fast gar keine Ergebnisse ab? Kein
 
 Hier findest du noch ein paar nützliche Opteratoren, die dir helfen, deine eigene Suche mit wenigen Handgriffen zu erweitern oder weiter zu verkleinern. Auf diese Weise kannst du deine Suchergebnisse entsprechend steuern
 
->➪ Beobachte die Suchergebnisse deiner Suche und passe deine Sucheingaben entsprechend an, um noch effektiver Suchen zu können.
+<div style="background-color:rgba(255, 230, 179, 0.6);padding: 25px;border: no;"> Beobachte die Suchergebnisse deiner Suche und passe deine Sucheingaben entsprechend an, um noch effektiver Suchen zu können.</div>
 
 </section>
 
@@ -357,7 +357,7 @@ Wenn dir die Schreibweise eines Begriffs nicht klar ist oder du einen Begriff gl
 
 <br>
 
-<div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ Suche ein Stichwort aus deiner Wortliste aus und suche es im [OPAC](https://katalog.ub.uni-kiel.de/)! Wie verändert sich die Trefferanzahl, wenn du Bestandteile des Wortes mit * trunkierst? Wie verändert sich die Trefferanzahl, wenn du stattdessen ein ? verwendest? Welche Kombination ergab die besten Treffer für diese Suche?
+<div style="background-color:rgba(255, 230, 179, 0.6);padding: 25px;border: no;"> ✎ Suche ein Stichwort aus deiner Wortliste aus und suche es im [OPAC](https://katalog.ub.uni-kiel.de/)! Wie verändert sich die Trefferanzahl, wenn du Bestandteile des Wortes mit * trunkierst? Wie verändert sich die Trefferanzahl, wenn du stattdessen ein ? verwendest? Welche Kombination ergab die besten Treffer für diese Suche?
 
 Wenn ich das * verwende...
 
@@ -418,7 +418,7 @@ Verwende Anführungsstrichen, um Wörter als zusammenhängenden Ausdruck (Phrase
 
 >![Bild Phrase](/media/phrase.png)➪ Die Phrasensuche setzt die Suchbegriffe im Unterschied zur UND-Suche auf eine bestimmte Reihenfolge der Suchbegriffe fest.
 
-<div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ Aufgabe: Versuche einmal, mehrere Begriffe von deiner Wortliste auf unterschiedliche Weise miteinander zu kombinieren und beobachte dabei die Ergebnisse. Was verändert sich? Welche Kombinationsmöglichkeiten machen Sinn, welche weniger?
+<div style="background-color:rgba(255, 230, 179, 0.6);padding: 25px;border: no;"> ✎ Aufgabe: Versuche einmal, mehrere Begriffe von deiner Wortliste auf unterschiedliche Weise miteinander zu kombinieren und beobachte dabei die Ergebnisse. Was verändert sich? Welche Kombinationsmöglichkeiten machen Sinn, welche weniger?
 
 <font color =399193>[Prüfen](/media/Kombinationen.png)</font>
 
@@ -438,7 +438,7 @@ Verwende das Wort NOT (in Großbuchstaben) oder das Minuszeichen, um Treffer zu 
 
 >![Bild NOT](/media/NOT.png)➪ Die NOT-Suche verkleinert den Suchbereich, indem sie nur die Begriffe vor dem NOT sucht und den hinter dem NOT ausschließt.
 
-<div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ An welcher Stelle könnte die Verwendung von NOT bei einer Suche hilfreich sein?
+<div style="background-color:#rgba(255, 230, 179, 0.6);padding: 25px;border: no;"> ✎ An welcher Stelle könnte die Verwendung von NOT bei einer Suche hilfreich sein?
 
 - [[ ]] Wenn ich von Anfang an bestimmte Kombinationen aus meiner Suche ausschließen möchte (z.B. Eisbären NOT Zoo). 
 - [[X]] Wenn ich bestimmte Faktoren, die in meiner Suche häufig zu Fehltreffern führen, aus der Suche ausschließen möchte (z.B. Apfelkuchenrezept NOT Backpulver).
