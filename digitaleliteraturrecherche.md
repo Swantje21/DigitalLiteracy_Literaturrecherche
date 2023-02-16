@@ -43,6 +43,8 @@ In diesem Baustein stellen wir dir einige nützliche Strategien und Tools für d
 
 * [Weiterführende Links](#7)
 
+<br>
+
  Du kannst alle sechs Kapitel in der vorgegebenen Reihenfolge abschließen. Du kannst aber auch bereits bekannte Inhalte überspringen oder gezielt einzelne Kapitel ansteuern. 
  
 <br>
