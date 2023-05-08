@@ -331,7 +331,7 @@ Hier ein paar Hinweise zur "richtigen" Eingabe:
 <section>
 
 <div style=width:40%>
-  <img src="media/Comic.png" alt="Comic Bücherstapel auf einem Schreibtisch">
+  <img src="Media/Comic.png" alt="Comic Bücherstapel auf einem Schreibtisch">
 </div>
 
 <br>
