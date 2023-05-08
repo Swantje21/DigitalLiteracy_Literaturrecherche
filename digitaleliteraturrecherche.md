@@ -73,7 +73,7 @@ Eine schnelle und übersichtliche Möglichkeit, an geeignete Suchbegriffe zu kom
 
 Fülle im Anschluss die Tabelle mit weiteren Ober- und Unterbegriffen, Synonymen, Übersetzungen und verwandten Begriffen. Auf diese Weise kannst du dein Thema weiter präzisieren und die Suche optimieren.
 
-![Bild Wortliste leer](/Media/leer.png)
+![Bild Wortliste leer](/Media/wortliste2.png)
 
 >➪ Auf der nächsten Seite findest du ein Beispiel für eine ausgefüllte Wortliste.
 
