@@ -165,7 +165,7 @@ Zur besseren Übersicht grenzen wir einmal drei unterschiedliche **Suchräume** 
 
 Die Universitätsbibliothek verfügt über zwei unterschiedliche Katalogsysteme, die beide auf den gleichen Bestand zugreifen. Sie geben Auskunft über die bibliografischen Angaben, den Standort und die Entleihbarkeiten von Literaturtiteln. Dabei durchsuchen sie den gesamten Buchbestand der Zentralbibliothek und der Fachbibliotheken.
 
-| ![Bild OPAC](/Media/OPAC.png) | ![Bild Discovery](/media/Discovery.png) | 
+| ![Bild OPAC](/Media/OPAC.png) | ![Bild Discovery](/Media/Discovery.png) | 
 | ---- |:----------- |
 |[Der "klassische" Katalog (OPAC)](https://katalog.ub.uni-kiel.de/)  |[Der neuere Discovery-Service](https://discovery.ub.uni-kiel.de)  |
 
