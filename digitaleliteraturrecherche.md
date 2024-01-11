@@ -1,5 +1,5 @@
 <!--
-author:   Jessika Stiefken
+author:   Jessika Stiefken, Swantje Piotrowski, Britta Petersen, Silja Leinung, Caroline Beckmann
 
 email:    stu120720@mail.uni-kiel.de
 
